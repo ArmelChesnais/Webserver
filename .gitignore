@@ -12,3 +12,4 @@ constants.php
 psl-config.php
 .DS_Store
 deploy.php
+*.sql
