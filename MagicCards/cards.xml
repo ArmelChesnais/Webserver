@@ -1,0 +1,3138 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<cockatrice_carddatabase version="3"> 
+<sets> 
+<set> 
+<name>SIC</name> 
+<longname></longname> 
+</set> 
+</sets> 
+<cards>
+
+<card> 
+ <name>Accessory Viper<name></name>
+ <set picURL="/Accessory Viper.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Snake </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, target creature you control gains deathtouch until end of turn.</text>
+</card>
+<card> 
+ <name>Alex Planeswalker<name></name>
+ <set picURL="/Alex Planeswalker.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>2UR</manacost>
+ <type>Planeswalker - Alex </type>
+ <pt>0/5</pt>
+ <tablerow>2</tablerow>
+ <text>+1: Look at the top 2 cards of your library. Put one in your hand and one in the graveyard.
+
+-3: Return target instant or sorcery from your graveyard to your hand. You may deal damage equal to its converted mana cost to up to one target creature.
+
+-8: You get an emblem with "You may cast instants and sorceries from your graveyard. All spells you cast gain Efficiency 3." </text>
+</card>
+<card> 
+ <name>Amber Planeswalker<name></name>
+ <set picURL="/Amber Planeswalker.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Planeswalker - Amber </type>
+ <pt>0/5</pt>
+ <tablerow>2</tablerow>
+ <text>+2: Target player discards a card.
+
+-X: Target creature gets -X/-X until end of turn. If you control a vampire, gain X life.
+
+-11: You get an emblem with "Creatures you control have flying, deathtouch, and lifelink."</text>
+</card>
+<card> 
+ <name>Angelic Accord<name></name>
+ <set picURL="/Angelic Accord.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of each end step, if you gained 4 or more life this turn, put a 4/4 white Angel creature token with flying onto the battlefield.</text>
+</card>
+<card> 
+ <name>Apprentice Tinkerer<name></name>
+ <set picURL="/Apprentice Tinkerer.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Artificer </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME costs 1 less to cast if you control an artifact.</text>
+</card>
+<card> 
+ <name>Arcane Professor<name></name>
+ <set picURL="/Arcane Professor.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>1WUR</manacost>
+ <type>Creature -  </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an instant or sorcery spell, creatures you control get +1/+1 until end of turn.</text>
+</card>
+<card> 
+ <name>Armel Planeswalker<name></name>
+ <set picURL="/Armel Planeswalker.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>3WG</manacost>
+ <type>Planeswalker - Armel </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>+2: Until end of turn, up to one target creature gets +2/+2 and gains vigilance, and lifelink. Gain two life.
+
+-3: Look at the top card of your library. If it's a creature card, you may reveal it and put it into your hand. You may put up to one creature card from your hand onto the battlefield. Gain life equal to that creature's converted mana cost.
+
+-8: You get an emblem with "At the beginning of your upkeep, if you have 40 or more life or control 10 or more creatures, you win the game." </text>
+</card>
+<card> 
+ <name>Attendant Bot<name></name>
+ <set picURL="/Attendant Bot.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Efficiency 1</text>
+</card>
+<card> 
+ <name>Attentive Trailguard<name></name>
+ <set picURL="/Attentive Trailguard.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature -  </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance</text>
+</card>
+<card> 
+ <name>Aura Dove<name></name>
+ <set picURL="/Aura Dove.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Sacrifice CARDNAME: destroy target enchantment.</text>
+</card>
+<card> 
+ <name>Ætherize<name></name>
+ <set picURL="/Ætherize.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Return all attacking creatures to their owner's hand.</text>
+</card>
+<card> 
+ <name>Back-Alley Tough<name></name>
+ <set picURL="/Back-Alley Tough.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Human Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Coerce - Whenever an opponent attacks you or a planeswalker you control with at least 1 creature, you may pay W/B. If you do, that player loses 1 life and you gain 1 life.</text>
+</card>
+<card> 
+ <name>Battle Lines<name></name>
+ <set picURL="/Battle Lines.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Creatures you control have haste.
+When you cast CARDNAME, draw a card.</text>
+</card>
+<card> 
+ <name>Battle Sight<name></name>
+ <set picURL="/Battle Sight.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Prevent all damage that would be dealt this turn to you or creatures you control.
+Scry 1</text>
+</card>
+<card> 
+ <name>Beagle Aegis<name></name>
+ <set picURL="/Beagle Aegis.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact - Equipment </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Equip 2
+2: put a creature onto the battlefield with the same converted mana cost as equipped creature. If you do, return equipped creature to its owner's hand and attach CARDNAME to the new creature.</text>
+</card>
+<card> 
+ <name>Bear of Inspiring Repose<name></name>
+ <set picURL="/Bear of Inspiring Repose.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Bear </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, target creature gains +1/+1 until end of turn.</text>
+</card>
+<card> 
+ <name>Bear with a Beard<name></name>
+ <set picURL="/Bear with a Beard.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Bear </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Disguise G - G, exile CARDNAME: Choose a creature you control. That creature becomes a copy of CARDNAME.</text>
+</card>
+<card> 
+ <name>Ben Planeswalker<name></name>
+ <set picURL="/Ben Planeswalker.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>4RG</manacost>
+ <type>Planeswalker - Ben </type>
+ <pt>0/6</pt>
+ <tablerow>2</tablerow>
+ <text>+1: Put a +1/+1 counter on up to two target creatures you control. Disrobe. Disrobe.
+
+-2: Put four red 1/1 Rabbit tokens with haste onto the battlefield. Each rabbit you control may fight up to one target creature you don't control.
+
+-9: You get an emblem with "Whenever a creature enters the battlefield under your control, deal 3 damage to target creature or opponent." </text>
+</card>
+<card> 
+ <name>Benevolent Arborist<name></name>
+ <set picURL="/Benevolent Arborist.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Human Treefolk Coward </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Benevolent 2 - When CARDNAME enters the battlefield, you may have target opponent gain 2 life. If you do, target creature gets +3/+3 until end of turn.</text>
+</card>
+<card> 
+ <name>Benevolent Arcanist<name></name>
+ <set picURL="/Benevolent Arcanist.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Goblin Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Benevolent 4 - When CARDNAME enters the battlefield, you may have target opponent gain 4 life. If you do, copy target spell. You may choose new targets for the copies.</text>
+</card>
+<card> 
+ <name>Benevolent Archivist<name></name>
+ <set picURL="/Benevolent Archivist.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Creature - Merfolk Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Benevolent 3 - When CARDNAME enters the battlefield, you may have target opponent gain 3 life. If you do, draw a card.</text>
+</card>
+<card> 
+ <name>Benevolent Arsonist<name></name>
+ <set picURL="/Benevolent Arsonist.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <type>Creature - Human Berserker </type>
+ <pt>6/3</pt>
+ <tablerow>2</tablerow>
+ <text>Benevolent 3 - When CARDNAME enters the battlefield, you may have target opponent gain 3 life. If you do, destroy target land that player controls.</text>
+</card>
+<card> 
+ <name>Benevolent Big Guy<name></name>
+ <set picURL="/Benevolent Big Guy.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Creature - Giant </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Benevolent 8 - When CARDNAME enters the battlefield, you may have target opponent gain 8 life. If you do, put 3 +1/+1 counters on CARDNAME.</text>
+</card>
+<card> 
+ <name>Benevolent Dismissal<name></name>
+ <set picURL="/Benevolent Dismissal.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Tap target creature that dealt damage this turn.
+Benevolent 8 - You may have that creature's controller gain 8 life as you cast this spell. If you did, exile that creature instead.</text>
+</card>
+<card> 
+ <name>Benevolent Explorer<name></name>
+ <set picURL="/Benevolent Explorer.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Elf Ranger </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Benevolent 2 - When CARDNAME enters the battlefield, you may have target opponent gain 2 life. If you do, search your library for a basic land card and put it onto the battlefield tapped, then shuffle your library.</text>
+</card>
+<card> 
+ <name>Benevolent Giant<name></name>
+ <set picURL="/Benevolent Giant.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>3GW</manacost>
+ <type>Creature -  </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Benevolent 8 - When CARDNAME enters the battlefield, you may have target opponent gain 8 life. If you do, put 3 +1/+1 counters on target creature you control.</text>
+</card>
+<card> 
+ <name>Benevolent Leader<name></name>
+ <set picURL="/Benevolent Leader.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Creature - Rabbit Hivelord </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Benevolent 4 - When CARDNAME enters the battlefield, you may have target opponent gain 4 life. If you do, put 2 1/1 white and red Rabbit creature tokens with haste onto the battlefield.</text>
+</card>
+<card> 
+ <name>Benevolent Priest<name></name>
+ <set picURL="/Benevolent Priest.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Priest </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Benevolent 2 - When CARDNAME enters the battlefield, you may have target opponent gain 2 life. If you do, gain twice that much life.</text>
+</card>
+<card> 
+ <name>Benevolent Ranger<name></name>
+ <set picURL="/Benevolent Ranger.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Human Ranger </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Benevolent 6 - When CARDNAME enters the battlefield, you may have target opponent gain 6 life. If you do, destroy target creature with Flying that player controls.</text>
+</card>
+<card> 
+ <name>Benevolent recruiting <name></name>
+ <set picURL="/Benevolent recruiting .full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>2WG</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Benevolent 2 - at the beginning of your turn, target opponent gains 2 life. 
+
+Whenever an opponent gains life, place a 1/1 soldier token on the battlefield. </text>
+</card>
+<card> 
+ <name>Benevolent Removal<name></name>
+ <set picURL="/Benevolent Removal.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>WW</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Benevolent 3 - At the beggining of your upkeep, you may have owner of exiled permanent gain 3 life. If you do not, sacrifice CARDNAME.
+
+When CARDNAME enters the battlefield, exile another target nonland permanent until CARDNAME leaves the battlefield.</text>
+</card>
+<card> 
+ <name>Benevolent Sadist<name></name>
+ <set picURL="/Benevolent Sadist.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Creature - Goat Assassin </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Benevolent 2 - When CARDNAME enters the battlefield, you may have target opponent gain 2 life. If you do, destroy target creature that player controls.</text>
+</card>
+<card> 
+ <name>Benevolent Shocksmith<name></name>
+ <set picURL="/Benevolent Shocksmith.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Goblin Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Benevolent 2 - When CARDNAME enters the battlefield, you may have target opponent gain 2 life. If you do, CARDNAME deals that much damage to target creature or player.</text>
+</card>
+<card> 
+ <name>Benevolent Tapper<name></name>
+ <set picURL="/Benevolent Tapper.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Rogue </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Benevolent 4 - When CARDNAME enters the battlefield, you may have target opponent gain 4 life. If you do, tap target creature.</text>
+</card>
+<card> 
+ <name>Benevolent Wings<name></name>
+ <set picURL="/Benevolent Wings.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant creature
+Benevolent 3 - When CARDNAME enters the battlefield, you may have target opponent gain 3 life. If you do, creatures you control get +1/+1 until end of turn.
+Enchanted creature has flying.</text>
+</card>
+<card> 
+ <name>Berserk Mathie<name></name>
+ <set picURL="/Berserk Mathie.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Vampire </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>First Strike</text>
+</card>
+<card> 
+ <name>Big Disrobe<name></name>
+ <set picURL="/Big Disrobe.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <type>Creature - Beast </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with 3 +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: CARDNAME gets Trample until end of turn. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Birdcaller<name></name>
+ <set picURL="/Birdcaller.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Shaman </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When CARDNAME enters the battlefield, put a 1/1 white bird creature token with flying onto the battlefield.</text>
+</card>
+<card> 
+ <name>Blood Shield<name></name>
+ <set picURL="/Blood Shield.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant Creature
+Enchanted creature has deathtouch.
+If enchanted creature would die, instead tap it, remove it from combat, and remove all damage marked on it, then sacrifice CARDNAME.</text>
+</card>
+<card> 
+ <name>Bloody Scent<name></name>
+ <set picURL="/Bloody Scent.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a vampire enters the battlefield under your control, it deals 1 damage to target creature or player.
+When CARDNAME enters the battlefield, put a 2/1 red vampire creature token onto the battlefield under your control.</text>
+</card>
+<card> 
+ <name>Bombshelter Pub<name></name>
+ <set picURL="/Bombshelter Pub.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add 1 to your mana pool
+CARDNAME enters the battlefield tapped.
+U, tap a creature you control: tap target creature.</text>
+</card>
+<card> 
+ <name>Bondbreaker<name></name>
+ <set picURL="/Bondbreaker.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Human Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When CARDNAME deals damage to an opponent, you may return target creature that player controls to his or her hand.
+Disguise 1U - 1U, exile CARDNAME: Choose a creature you control. That creature becomes a copy of CARDNAME.</text>
+</card>
+<card> 
+ <name>Bonded Knight<name></name>
+ <set picURL="/Bonded Knight.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Creature - Human Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When CARDNAME enters the battlefield, put a white 2/2 human knight creature token onto the battlefield under your control.
+Coerce - Whenever an opponent attacks you or a planeswalker you control with at least 1 creature, you may pay W/B. If you do, that player loses 1 life and you gain 1 life.</text>
+</card>
+<card> 
+ <name>Bondguard<name></name>
+ <set picURL="/Bondguard.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature -  </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink</text>
+</card>
+<card> 
+ <name>Bonesplitter<name></name>
+ <set picURL="/Bonesplitter.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact - Equipment </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Equipped creature gets +2/+0.
+Equip 1</text>
+</card>
+<card> 
+ <name>Branspeaker<name></name>
+ <set picURL="/Branspeaker.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Changeling </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>1, T: put a Muffin artifact token with "Whenever another creature enters the battlefield under your control you may sacrifice this permanent. If you do, put a +1/+1 counter on that creature." onto the battlefield.</text>
+</card>
+<card> 
+ <name>Britt Planeswalker<name></name>
+ <set picURL="/Britt Planeswalker.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>2WBG</manacost>
+ <type>Planeswalker - Britt </type>
+ <pt>0/5</pt>
+ <tablerow>2</tablerow>
+ <text>+1: Put two 2/2 green Dog tokens onto the battlefield.
+
+-2: Put a +1/+1 counter on all Dogs, Cats, and Rabbits you control. Until your next turn, each affected creature gains lifelink.
+
+-9: For each Dog, Cat, and Rabbit you control, put a 4/4 white Angel token with flying onto the battlefield. </text>
+</card>
+<card> 
+ <name>Bro of Ages<name></name>
+ <set picURL="/Bro of Ages.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>WRG</manacost>
+ <type>Creature -  </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Commune 4 - if you control at least 4 colors amongst permanents you control, CARDNAME has +1/+1.</text>
+</card>
+<card> 
+ <name>Broadback Knight<name></name>
+ <set picURL="/Broadback Knight.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>5W</manacost>
+ <type>Creature - Human Knight </type>
+ <pt>4/6</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card> 
+ <name>Buckled Fencer<name></name>
+ <set picURL="/Buckled Fencer.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature -  </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: CARDNAME gets first strike until end of turn.</text>
+</card>
+<card> 
+ <name>Bunny Summons<name></name>
+ <set picURL="/Bunny Summons.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Put a 1/1 red and white rabbit creature token with haste onto the battlefield.
+Efficiency 1</text>
+</card>
+<card> 
+ <name>Burdened Duelist<name></name>
+ <set picURL="/Burdened Duelist.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature - Human Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: CARDNAME gets +1/+1 until end of turn. Activate this ability only once per turn.
+CARDNAME has Double Strike as long as it has no +1/+1 counters on it.</text>
+</card>
+<card> 
+ <name>Burdened Speedster<name></name>
+ <set picURL="/Burdened Speedster.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Human Runner </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: CARDNAME gets +0/+2 until end of turn. Activate this ability only once per turn.
+CARDNAME has haste as long as it has no +1/+1 counters on it.</text>
+</card>
+<card> 
+ <name>Call The Devoted<name></name>
+ <set picURL="/Call The Devoted.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>BBB</manacost>
+ <type>Enchantment -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your end step, if the number of creature cards in your graveyard is greater than your devotion to black, return a creature from your graveyard to the battlefield at random.
+Sacrifice a creature: gain a life.</text>
+</card>
+<card> 
+ <name>Catacomb Slug<name></name>
+ <set picURL="/Catacomb Slug.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Creature -  </type>
+ <pt>2/6</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card> 
+ <name>Cherished Descendant<name></name>
+ <set picURL="/Cherished Descendant.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Human </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Commune 5 - if you control at least 5 colors amongst permanents you control, CARDNAME gets +5/+5.</text>
+</card>
+<card> 
+ <name>Chet<name></name>
+ <set picURL="/Chet.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact - Equipment </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Equip 3
+Equipped creature gets +X/+X, where X is the number of colours among permanents you control.</text>
+</card>
+<card> 
+ <name>Child of Night<name></name>
+ <set picURL="/Child of Night.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Vampire </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink</text>
+</card>
+<card> 
+ <name>Clockwork Minder<name></name>
+ <set picURL="/Clockwork Minder.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Rhythm (at the beginning of your upkeep, if there is at least 1 beat counter on CARDNAME, remove a beat counter from it. Otherwise, place a beat counter on it.)
+Whenever you remove a rhythm counter from CARDNAME, you may pay 1. If you do, place a rhythm counter on another target artifact.</text>
+</card>
+<card> 
+ <name>Cobbled Wings<name></name>
+ <set picURL="/Cobbled Wings.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact - Equipment </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Equipped creature has flying.
+Equip 1 </text>
+</card>
+<card> 
+ <name>Coercive Fencer<name></name>
+ <set picURL="/Coercive Fencer.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Fencer </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>First Strike
+Coerce - Whenever an opponent attacks you or a planeswalker you control with at least 1 creature, you may pay W/B. If you do, that player loses 1 life and you gain 1 life.</text>
+</card>
+<card> 
+ <name>Coercive Healer<name></name>
+ <set picURL="/Coercive Healer.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Medic </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Llfelink
+Coerce - Whenever an opponent attacks you or a planeswalker you control with at least 1 creature, you may pay W/B. If you do, that player loses 1 life and you gain 1 life.</text>
+</card>
+<card> 
+ <name>Coercive Influence<name></name>
+ <set picURL="/Coercive Influence.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>2WB</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Coerce - Whenever an opponent attacks you or a planeswalker you control with at least 1 creature, you may pay W/B. If you do, that player loses 1 life and you gain 1 life.
+Creatures your opponents control must attack each turn if able.</text>
+</card>
+<card> 
+ <name>Communal Boost<name></name>
+ <set picURL="/Communal Boost.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant Creature
+Enchanted creature has 1/+1 for each colour among premanents you control.</text>
+</card>
+<card> 
+ <name>Communal Librarian<name></name>
+ <set picURL="/Communal Librarian.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Human Archivist </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Commune 3 - T: Draw a card, then discard a card. If you control 3 or more colours amongst permanents you control, draw a card instead. Activate only as a sorcery.</text>
+</card>
+<card> 
+ <name>Communal Ritual<name></name>
+ <set picURL="/Communal Ritual.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Add R to your mana pool for each colour among permanents you control.</text>
+</card>
+<card> 
+ <name>Community Guardian<name></name>
+ <set picURL="/Community Guardian.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Creature -  </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Commune 3 - if you control at least 3 colors amongst permanents you control, CARDNAME has double strike.</text>
+</card>
+<card> 
+ <name>Costumed Rootwalla<name></name>
+ <set picURL="/Costumed Rootwalla.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Lizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with 2 +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: target creature gets +3/+3 until end of turn. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Cotton Crusader<name></name>
+ <set picURL="/Cotton Crusader.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME's power and toughness are each equal to the number of creatures you control.</text>
+</card>
+<card> 
+ <name>Cotton Summons<name></name>
+ <set picURL="/Cotton Summons.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Put two 1/1 white and red rabbit creature tokens with haste onto the battlefield.</text>
+</card>
+<card> 
+ <name>Cottontail Warden<name></name>
+ <set picURL="/Cottontail Warden.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Creature -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with X +1/+1 counters on it, where X is the number of creatures you control.
+Disrobe - Remove a +1/+1 counter from CARDNAME: Put a 1/1 white and red rabbit creature token with haste onto the battlefield. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Crackling Aura<name></name>
+ <set picURL="/Crackling Aura.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an instant or sorcery spell, you may have CARDNAME deal 1 damage to target player.</text>
+</card>
+<card> 
+ <name>Cudgel Skink<name></name>
+ <set picURL="/Cudgel Skink.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Lizard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, target creature you control gets +1/+1 until end of turn.</text>
+</card>
+<card> 
+ <name>Curiosity<name></name>
+ <set picURL="/Curiosity.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.</text>
+</card>
+<card> 
+ <name>Custodian<name></name>
+ <set picURL="/Custodian.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature -  </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice CARDNAME: destroy target enchantment.</text>
+</card>
+<card> 
+ <name>Dancer <name></name>
+ <set picURL="/Dancer .full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Rhythm (at the beginning of your upkeep, if there is at least 1 beat counter on CARDNAME, remove a beat counter from it. Otherwise, place a beat counter on it.) - Whenever a beat counter is removed from CARDNAME, target creature gains protection from the color of your choice until end of turn.
+
+CARDNAME enters the battlefield with a beat counter on it.
+Beat counters on CARDNAME count as +1/+1 counters.</text>
+</card>
+<card> 
+ <name>Deadphones<name></name>
+ <set picURL="/Deadphones.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>2</manacost>
+ <type>Artifact -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Rhythm (at the beginning of your upkeep, if there is at least 1 beat counter on CARDNAME, remove a beat counter from it. Otherwise, place a beat counter on it.)
+B, T, Remove a beat counter from CARDNAME and sacrifice it: destroy target creature.</text>
+</card>
+<card> 
+ <name>Deathmetal Amp<name></name>
+ <set picURL="/Deathmetal Amp.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>X</manacost>
+ <type>Artifact -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with X beat counters on it.
+Rhythm (at the beginning of your upkeep, remove a beat counter from CARDNAME, if you do not, place a beat counter on it instead.)
+B, Sacrifice CARDNAME: Target creature gets -X/-X and can't attack or block until end of turn, where X is the number of beat counters on CARDNAME.</text>
+</card>
+<card> 
+ <name>Deathtouch Vampire<name></name>
+ <set picURL="/Deathtouch Vampire.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Vampire </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch</text>
+</card>
+<card> 
+ <name>Deepnight Vampire<name></name>
+ <set picURL="/Deepnight Vampire.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>BBB</manacost>
+ <type>Creature -  </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink</text>
+</card>
+<card> 
+ <name>Desecration Fiend<name></name>
+ <set picURL="/Desecration Fiend.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>5B</manacost>
+ <type>Creature - Vampire </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When CARDNAME enters the battlefield, you may return a creature card from your graveyard to the battlefield. It is a black vampire in addition to its other types and colours.</text>
+</card>
+<card> 
+ <name>Devoted Big Extraction<name></name>
+ <set picURL="/Devoted Big Extraction.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Sorcery -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Choose up to X nonland cards in target player's library, where X is equal to your devotion to black. Search that player's hand, graveyard and library for any number of copies of those cards and exile them, then that player shuffles their library.</text>
+</card>
+<card> 
+ <name>Devoted Extraction<name></name>
+ <set picURL="/Devoted Extraction.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Instant -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Choose a nonland card in target player's graveyard. Search that player's hand, graveyard and library for up to X copies of that card and exile them, where X is equal to your devotion to black, then that player shuffles their library.</text>
+</card>
+<card> 
+ <name>Devoted Vampire<name></name>
+ <set picURL="/Devoted Vampire.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Vampire </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME has Lifelink as long as your devotion to black is 4 or greater.</text>
+</card>
+<card> 
+ <name>Devotion Kill<name></name>
+ <set picURL="/Devotion Kill.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant Creature
+Enchanted creature gets -X/-X where X is equal to your devotion to black.</text>
+</card>
+<card> 
+ <name>Devotion Murderer<name></name>
+ <set picURL="/Devotion Murderer.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Creature - Vampire </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When CARDNAME enters the battlefield, destroy target creature with converted mana cost less than or equal to your devotion to black.</text>
+</card>
+<card> 
+ <name>Devotion Size Guy<name></name>
+ <set picURL="/Devotion Size Guy.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Human </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME's power and toughness are each equal to your devotion to black.</text>
+</card>
+<card> 
+ <name>Devotion's Reward<name></name>
+ <set picURL="/Devotion's Reward.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Enchantment -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature you control dies, you may gain life equal to your devotion to black.</text>
+</card>
+<card> 
+ <name>Devout Might<name></name>
+ <set picURL="/Devout Might.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Instant -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Target creature's base power and toughness become X/X, where X is your devotion to black.</text>
+</card>
+<card> 
+ <name>Disrobe Bear<name></name>
+ <set picURL="/Disrobe Bear.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Beast </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: CARDNAME gets +4/+0 until end of turn. Activate this ability only once per turn. </text>
+</card>
+<card> 
+ <name>Disrobe Draw<name></name>
+ <set picURL="/Disrobe Draw.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with 2 +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: Exile the top card of your library and you may play that card until the beginning of your next turn. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Disrobe Share<name></name>
+ <set picURL="/Disrobe Share.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Beast </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: Put a +1/+1 counter on target creature. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Distracting Sting<name></name>
+ <set picURL="/Distracting Sting.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME deals 1 damage to target creature. That creature cannot block this turn.</text>
+</card>
+<card> 
+ <name>Disturbed Writer<name></name>
+ <set picURL="/Disturbed Writer.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Human Writer </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, you lose 3 life and draw a card.</text>
+</card>
+<card> 
+ <name>Doombox<name></name>
+ <set picURL="/Doombox.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Artifact -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with a beat counter on it. 
+Rhythm (at the beginning of your upkeep, if there is at least 1 beat counter on CARDNAME, remove a beat counter from it. Otherwise, place a beat counter on it.) - Whenever you remove a beat counter from CARDNAME, target opponent loses 1 life and you gain 1 life.</text>
+</card>
+<card> 
+ <name>Double-time<name></name>
+ <set picURL="/Double-time.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>1{W/B}UU</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Rhythm on permanents you control also activates at the beginning of other players upkeep.</text>
+</card>
+<card> 
+ <name>Downbeat<name></name>
+ <set picURL="/Downbeat.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Remove a beat counter from target permanent with Rhythm. If you do, tap target creature and it doesn't untap during its owner's next untap step.</text>
+</card>
+<card> 
+ <name>Dream Eater<name></name>
+ <set picURL="/Dream Eater.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Vampire </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, target opponent loses 2 life and you gain 2 life.
+Menace</text>
+</card>
+<card> 
+ <name>Dreamborne Savage<name></name>
+ <set picURL="/Dreamborne Savage.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <type>Creature -  </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, CARDNAME gets +1/+1  until end of turn for each tapped creature you control.</text>
+</card>
+<card> 
+ <name>Dreaming Baker<name></name>
+ <set picURL="/Dreaming Baker.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Human Baker </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, you may pay G. If you do, put a Muffin artifact token with MUFFIN TEXT onto the battlefield.</text>
+</card>
+<card> 
+ <name>Eager Vampire<name></name>
+ <set picURL="/Eager Vampire.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Vampire </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+CARDNAME attacks each turn if able.</text>
+</card>
+<card> 
+ <name>Efficient  Angel<name></name>
+ <set picURL="/Efficient  Angel.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>5WW</manacost>
+ <type>Creature - Angel </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying.
+Efficiency 3.</text>
+</card>
+<card> 
+ <name>Efficient  Divination<name></name>
+ <set picURL="/Efficient  Divination.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Sorcery -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Draw 2 cards.
+Efficiency 2. (Add {2} to your mana pool.)</text>
+</card>
+<card> 
+ <name>Efficient  Mindrot<name></name>
+ <set picURL="/Efficient  Mindrot.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Sorcery -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Target player discards 2 cards. Efficiency 1. (Add {1} to your mana pool.)</text>
+</card>
+<card> 
+ <name>Efficient  Shock<name></name>
+ <set picURL="/Efficient  Shock.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deal 2 damage to target creature or player. Efficiency 1. (Add {1} to your mana pool.) </text>
+</card>
+<card> 
+ <name>Efficient Bear<name></name>
+ <set picURL="/Efficient Bear.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Bear </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Efficiency 2. (Add {2} to your mana pool.)</text>
+</card>
+<card> 
+ <name>Efficient Bolt<name></name>
+ <set picURL="/Efficient Bolt.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Efficiency 2
+CARDNAME deals 3 damage to target creature or player.</text>
+</card>
+<card> 
+ <name>Efficient Burn<name></name>
+ <set picURL="/Efficient Burn.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>XRRR</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Efficiency X
+CARDNAME deals X damage to target creature or player.</text>
+</card>
+<card> 
+ <name>Efficient Counterspell<name></name>
+ <set picURL="/Efficient Counterspell.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Instant -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Counter target spell. Efficiency 2. (Add {2} to your mana pool.) </text>
+</card>
+<card> 
+ <name>Efficient Filtering<name></name>
+ <set picURL="/Efficient Filtering.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>You may spend colourless mana as though it were blue mana until the end of the turn.
+Efficiency 2</text>
+</card>
+<card> 
+ <name>Efficient Geese<name></name>
+ <set picURL="/Efficient Geese.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Efficiency 1
+Put 2 2/2 black and blue Goose creature tokens with Flying onto the battlefield.</text>
+</card>
+<card> 
+ <name>Efficient Lava Axe<name></name>
+ <set picURL="/Efficient Lava Axe.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME deals 5 damage to target player.
+Efficiency 2</text>
+</card>
+<card> 
+ <name>Efficient Ogre<name></name>
+ <set picURL="/Efficient Ogre.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Ogre </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Efficiency 1</text>
+</card>
+<card> 
+ <name>Efficient Packbeast<name></name>
+ <set picURL="/Efficient Packbeast.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature -  </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Efficiency 1</text>
+</card>
+<card> 
+ <name>Efficient Rabbits<name></name>
+ <set picURL="/Efficient Rabbits.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Efficiency 2
+Put 3 1/1 red and white rabbit creature tokens with haste onto the battlefield under your control.</text>
+</card>
+<card> 
+ <name>Efficient Refraction<name></name>
+ <set picURL="/Efficient Refraction.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Efficiency 3
+Copy target spell. You may choose new targets for the copy.</text>
+</card>
+<card> 
+ <name>Efficient Vandalism<name></name>
+ <set picURL="/Efficient Vandalism.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Destroy target artifact.
+Efficiency 1</text>
+</card>
+<card> 
+ <name>Efficient Wings<name></name>
+ <set picURL="/Efficient Wings.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant creature
+Enchanted creature has flying
+Efficiency 1</text>
+</card>
+<card> 
+ <name>Effient Student<name></name>
+ <set picURL="/Effient Student.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Human Scholar </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess</text>
+</card>
+<card> 
+ <name>Empathy<name></name>
+ <set picURL="/Empathy.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant Creature
+Whenever opponent gains life, put a +1/+1 counter on enchanted creature.</text>
+</card>
+<card> 
+ <name>Ensoul Artifact<name></name>
+ <set picURL="/Ensoul Artifact.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant artifact
+Enchanted artifact is a creature with base power and toughness 5/5 in addition to its other types.</text>
+</card>
+<card> 
+ <name>Enthralling Vampire<name></name>
+ <set picURL="/Enthralling Vampire.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <type>Creature - Vampire </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When CARDNAME enters the battlefield, gain control of target creature until end of turn. Untap it. It gains haste until end of turn.</text>
+</card>
+<card> 
+ <name>Erin Planeswalker<name></name>
+ <set picURL="/Erin Planeswalker.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>1BG</manacost>
+ <type>Planeswalker - Erin </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>+1: Each player discards a card and puts the top card of his or her library into his or her graveyard.
+
+-3: Exile target creature card from a graveyard. Put three colorless tokens named Muffin onto the battlefield. They have: "Sacrifice Muffin: Put a +1/+1 counter on target creature." Put X loyalty counters on Erin, where X is the converted mana cost of the creature exiled this way.
+
+-8: You get an emblem with "Whenever an effect would place one or more +1/+1 counters on a creature you control, it places twice that many +1/+1 counters on that creature instead."</text>
+</card>
+<card> 
+ <name>Ether Guardian<name></name>
+ <set picURL="/Ether Guardian.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature -  </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME can block 1 additional creature for each card you own in exile.</text>
+</card>
+<card> 
+ <name>Etherial Octopus<name></name>
+ <set picURL="/Etherial Octopus.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>7U</manacost>
+ <type>Creature - Octopus </type>
+ <pt>8/8</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME costs 1 less for each card you own in exile.
+Exile 8 or more power worth of creatures you control: put CARDNAME onto the battlefield under your control.</text>
+</card>
+<card> 
+ <name>Etheric Hydra<name></name>
+ <set picURL="/Etheric Hydra.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Hydra </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME gets +1/+1 for each card you own in exile.
+Disguise 3G - 3G, exile CARDNAME: Choose a creature you control. That creature becomes a copy of CARDNAME.</text>
+</card>
+<card> 
+ <name>Etheric Polymorph<name></name>
+ <set picURL="/Etheric Polymorph.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Exile the top card of your library. Target creature's base power and toughness are each equal to the converted mana cost of that card until end of turn.</text>
+</card>
+<card> 
+ <name>Etheric Revival<name></name>
+ <set picURL="/Etheric Revival.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>UBG</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature would die, exile it instead. 
+Sacrifice CARDNAME: You may play a card exiled with CARDNAME without paying its mana cost.</text>
+</card>
+<card> 
+ <name>Etheric Savant<name></name>
+ <set picURL="/Etheric Savant.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Merfolk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When CARDNAME enters the battlefield, draw 1 card for each card you own in exile.</text>
+</card>
+<card> 
+ <name>Etheric Seer<name></name>
+ <set picURL="/Etheric Seer.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature -  </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When CARDNAME enters the battlefield, exile the top card of your library. If it is a nonland card, draw a card.</text>
+</card>
+<card> 
+ <name>Ethershrike<name></name>
+ <set picURL="/Ethershrike.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Creature - Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a card you own is put into the exile zone, you may draw a card.
+When CARDNAME enters the battlefield, exile the top card of your library.</text>
+</card>
+<card> 
+ <name>Exhausting Brawl<name></name>
+ <set picURL="/Exhausting Brawl.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Target creature you control fights another target creature. Tap those creatures.</text>
+</card>
+<card> 
+ <name>Explorer's Scope<name></name>
+ <set picURL="/Explorer's Scope.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact - Equipment </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.
+Equip 1 </text>
+</card>
+<card> 
+ <name>Feeding Frenzy<name></name>
+ <set picURL="/Feeding Frenzy.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>4BR</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Until end of turn, vampires you control have: "T: deal 1 damage to target creature or player".
+Whenever a creature dealt damage by a vampire you control dies this turn, return it to the battlefield under your control. It is a black vampire creature in addition to its other colours and types.</text>
+</card>
+<card> 
+ <name>Firebreathing<name></name>
+ <set picURL="/Firebreathing.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>R: Enchanted creature gets +1/+0 until end of turn.</text>
+</card>
+<card> 
+ <name>Firery Rage<name></name>
+ <set picURL="/Firery Rage.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>XRR</manacost>
+ <type>Sorcery -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Firery Rage deals X damage to target creature or player, and 2 damage to target player.</text>
+</card>
+<card> 
+ <name>Fleetfoot Aura<name></name>
+ <set picURL="/Fleetfoot Aura.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant creature
+Enchanted creature has +1/+0 and haste.</text>
+</card>
+<card> 
+ <name>Fluffy Bunny Death Strike<name></name>
+ <set picURL="/Fluffy Bunny Death Strike.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>1RW</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Until end of turn, attacking creatures you control have lifelink and get +1/+0.</text>
+</card>
+<card> 
+ <name>Force Spike<name></name>
+ <set picURL="/Force Spike.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Counter target spell unless its controller pays 1.</text>
+</card>
+<card> 
+ <name>Forest<name></name>
+ <set picURL="/Forest.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card> 
+ <name>Freshmech<name></name>
+ <set picURL="/Freshmech.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact Creature - Automata </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Commune 1 - CARDNAME gains +1/+1 if you control 1 or more colours amongst permanents you control.</text>
+</card>
+<card> 
+ <name>Frostburn<name></name>
+ <set picURL="/Frostburn.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>UR</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME deals 2 damage to target creature. Tap that creature.
+Efficiency 2</text>
+</card>
+<card> 
+ <name>Giant Growth<name></name>
+ <set picURL="/Giant Growth.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Target creature gets +3/+3 until end of turn.</text>
+</card>
+<card> 
+ <name>Gleeful Sadist<name></name>
+ <set picURL="/Gleeful Sadist.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <type>Creature - Vampire </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card> 
+ <name>Goose Broodmother<name></name>
+ <set picURL="/Goose Broodmother.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Creature - Bird </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, put a 2/2 black and blue Goose creature token with Flying onto the battlefield under your control.</text>
+</card>
+<card> 
+ <name>Goosevision<name></name>
+ <set picURL="/Goosevision.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Put a 2/2 blue and black goose creature token with flying onto the battlefield. 
+Draw a card.</text>
+</card>
+<card> 
+ <name>Grand<name></name>
+ <set picURL="/Grand.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>6</manacost>
+ <type>Artifact Creature - Automata </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>First Strike, Deathtouch
+Commune 5 - If you control at least 5 colors among permanents you control, CARDNAME gains +3/+3, Haste and Flying.</text>
+</card>
+<card> 
+ <name>Grassland Fen<name></name>
+ <set picURL="/Grassland Fen.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Swamp </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Play with the top card of your deck revealed. As long as it is a land card, CARDNAME has "T: add W to your mana pool".
+WB, T, sacrifice CARDNAME: draw a card</text>
+</card>
+<card> 
+ <name>Grassland Isle<name></name>
+ <set picURL="/Grassland Isle.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Island </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Play with the top card of your deck revealed. As long as it is a land card, CARDNAME has "T: add W to your mana pool".</text>
+</card>
+<card> 
+ <name>Grassy Feast<name></name>
+ <set picURL="/Grassy Feast.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant Land
+Whenever a goose enters the battlefield put a goose poop counter on enchanted land. (a land with 1 goose poop counter has T: add B to your mana pool. A land with 2 or more goose poop counters is a basic swamp)
+When CARDNAME enters the battlefield, put 2 2/2 black and blue goose creature tokens with flying onto the battlefield.
+1: move a goose poop counter from enchanted land onto another land.</text>
+</card>
+<card> 
+ <name>Green Lifegain Disrobe<name></name>
+ <set picURL="/Green Lifegain Disrobe.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Subtype </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with 2 +1/+1 counters on it.
+Disrobe - Remove a counter from CARDNAME: any number of target players each gain 2 life. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Groove Criminal<name></name>
+ <set picURL="/Groove Criminal.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>1WB</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Rhythm (at the beginning of your upkeep, if there is at least 1 beat counter on CARDNAME, remove a beat counter from it. Otherwise, place a beat counter on it.) - CARDNAME has Lifelink as long as it has a beat counter on it. Otherwise it has Deathtouch.</text>
+</card>
+<card> 
+ <name>Guard Bot<name></name>
+ <set picURL="/Guard Bot.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>4</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash</text>
+</card>
+<card> 
+ <name>Guardbond<name></name>
+ <set picURL="/Guardbond.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant Creature
+Enchanted creature has +1/+3 and lifelink.</text>
+</card>
+<card> 
+ <name>Halefruit Wurm<name></name>
+ <set picURL="/Halefruit Wurm.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Creature - Wurm </type>
+ <pt>6/4</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, you may gain 4 life.</text>
+</card>
+<card> 
+ <name>Haste Giver<name></name>
+ <set picURL="/Haste Giver.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>4RG</manacost>
+ <type>Creature - Human Nudist </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with 5 +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: target creature gains Haste until end of turn. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Hat Trick<name></name>
+ <set picURL="/Hat Trick.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Put 3 1/1 red and white rabbit creature tokens with haste onto the battlefield.</text>
+</card>
+<card> 
+ <name>Heightened Reactions<name></name>
+ <set picURL="/Heightened Reactions.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Target creature gets +1/+1 and first strike until end of turn.</text>
+</card>
+<card> 
+ <name>Hidden Goose<name></name>
+ <set picURL="/Hidden Goose.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <type>Creature - Bird </type>
+ <pt>4/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying
+Disguise 2U - 2U, exile CARDNAME: Choose a creature you control. That creature becomes a copy of CARDNAME.</text>
+</card>
+<card> 
+ <name>Hidden Trampler<name></name>
+ <set picURL="/Hidden Trampler.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <type>Creature - Baloth </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Disguise 3G - 3G, exile CARDNAME: Choose a creature you control. That creature becomes a copy of CARDNAME.</text>
+</card>
+<card> 
+ <name>Honkwing Protege<name></name>
+ <set picURL="/Honkwing Protege.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>1UB</manacost>
+ <type>Creature - Goose </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+</card>
+<card> 
+ <name>Hulking Flasher<name></name>
+ <set picURL="/Hulking Flasher.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Creature - Goblin Flasher </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with two +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: deal 1 damage to target creature or player. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Hypnotic Bite<name></name>
+ <set picURL="/Hypnotic Bite.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a vampire creature enters the battlefield under your control, it deals 1 damage to target creature you don't control. Gain control of that creature until end of turn. Untap it, and it gains haste until end of turn.</text>
+</card>
+<card> 
+ <name>Ian Planeswalker<name></name>
+ <set picURL="/Ian Planeswalker.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>{2/W}{2/U}{2/B}{2/R}{2/G}</manacost>
+ <type>Planeswalker - Ian </type>
+ <pt>0/6</pt>
+ <tablerow>2</tablerow>
+ <text>+1: Until end of turn, Ian becomes a legendary 5/5 red, green, black, blue, and white Dragon creature with flying, trample, indestructible, and haste. (He doesn't lose loyalty while he's not a planeswalker.)
+
+-3: Creatures you control get +3/+3 and gain lifelink, trample, and haste until end of turn.
+
+-10: Deal 10 damage to all opponents and creatures your opponents control. Gain life equal to the amount of damage dealt.</text>
+</card>
+<card> 
+ <name>Illness in the Ranks<name></name>
+ <set picURL="/Illness in the Ranks.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Creature tokens get -1/-1.</text>
+</card>
+<card> 
+ <name>Imprint<name></name>
+ <set picURL="/Imprint.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add 1 to your mana pool.
+U, T, tap a creature you control: draw a card then discard a card.</text>
+</card>
+<card> 
+ <name>Intimidating Presence<name></name>
+ <set picURL="/Intimidating Presence.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>BR</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Creatures you control have deathtouch.
+Sacrifice CARDNAME: creatures you control get +1/+0 and have Menace until end of turn.</text>
+</card>
+<card> 
+ <name>Intuitive Leap<name></name>
+ <set picURL="/Intuitive Leap.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Scry 1, then draw a card.</text>
+</card>
+<card> 
+ <name>Island<name></name>
+ <set picURL="/Island.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card> 
+ <name>Joel Planeswalker<name></name>
+ <set picURL="/Joel Planeswalker.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>3UG</manacost>
+ <type>Planeswalker - Joel </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>+1: Tap up to two target creatures an opponent controls. They do not untap during their controller's next untap step.
+
++1: Target creature you control gets +3/+3 and trample until end of turn.
+
+-7: Reveal the top 10 cards of your library. You may put any number of permanents revealed this way onto the battlefield. Shuffle the rest of the cards into your library.</text>
+</card>
+<card> 
+ <name>Jukeor<name></name>
+ <set picURL="/Jukeor.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>4</manacost>
+ <type>Artifact Creature - Automata </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Commune 3 - if you control at least 3 colors amongst permanents you control, CARDNAME gains first strike and +0/+1</text>
+</card>
+<card> 
+ <name>Knight of Restoration<name></name>
+ <set picURL="/Knight of Restoration.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>1WG</manacost>
+ <type>Creature -  </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an opponent gains life, put two +1/+1 counters on CARDNAME.</text>
+</card>
+<card> 
+ <name>Laurel Trailguard<name></name>
+ <set picURL="/Laurel Trailguard.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature -  </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash</text>
+</card>
+<card> 
+ <name>Lumbering Scaleback<name></name>
+ <set picURL="/Lumbering Scaleback.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Creature -  </type>
+ <pt>4/8</pt>
+ <tablerow>2</tablerow>
+ <text>When CARDNAME enters the battlefield, remove a counter from target permanent.</text>
+</card>
+<card> 
+ <name>Machineior<name></name>
+ <set picURL="/Machineior.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>5</manacost>
+ <type>Artifact Creature - Automata </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>First Strike
+Commune 4 - If you control at least 4 colors among permanents you control, CARDNAME gains Deathtouch</text>
+</card>
+<card> 
+ <name>Mana Vortex<name></name>
+ <set picURL="/Mana Vortex.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>RU</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Other spells you cast this turn have Efficiency 1. 
+Draw a card. 
+Efficiency 1.</text>
+</card>
+<card> 
+ <name>Maskdrifter<name></name>
+ <set picURL="/Maskdrifter.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <type>Creature - Fish </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When CARDNAME enters the battlefield under your control, draw 2 cards.
+Disguise U - U, exile CARDNAME: Choose a creature you control. That creature becomes a copy of CARDNAME.</text>
+</card>
+<card> 
+ <name>Masked Elf<name></name>
+ <set picURL="/Masked Elf.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Creature - Elf </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: add G to your mana pool.
+Disguise Sacrifice a land - Sacrifice a land, exile CARDNAME: Choose a creature you control. That creature becomes a copy of CARDNAME.
+</text>
+</card>
+<card> 
+ <name>Masked Saboteur<name></name>
+ <set picURL="/Masked Saboteur.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Merfolk Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever CARDNAME deals combat damage to an opponent, you may draw a card.
+Prowess
+Disguise 1U - 1U, exile CARDNAME: Choose a creature you control. That creature becomes a copy of CARDNAME.</text>
+</card>
+<card> 
+ <name>Math and Computers<name></name>
+ <set picURL="/Math and Computers.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>T: add 1 to your mana pool.
+T: spells you cast this turn with even converted mana costs cost 1 less to cast.
+T: spells opponents cast this turn with odd converted mana costs cost 1 more to cast.</text>
+</card>
+<card> 
+ <name>Mel's Diner<name></name>
+ <set picURL="/Mel's Diner.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>G, T: gain 2 life
+RR, sacrifice CARDNAME: Add RRRRR to your mana pool and target player can't gain life this turn. </text>
+</card>
+<card> 
+ <name>Menacing Don<name></name>
+ <set picURL="/Menacing Don.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Human Don </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Commune 3 - If you control at least 3 colours amongst permanents you control, creatures you control have Menace (they can't be blocked except by 2 or more creatures).</text>
+</card>
+<card> 
+ <name>Mnemonic Instrument<name></name>
+ <set picURL="/Mnemonic Instrument.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>4</manacost>
+ <type>Artifact -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Rhythm (At the beginning of your upkeep, if Mnemonic Instrument has a beat counter on it, remove a beat counter, otherwise, place a beat counter on Mnemonic Instrument.)
+Whenever you remove a beat counter from Mnemonic Instrument, discard a card. Whenever you add a beat counter to Mnemonic Instrument, draw a card.</text>
+</card>
+<card> 
+ <name>Mobile Phone<name></name>
+ <set picURL="/Mobile Phone.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Artifact -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Until end of turn, you may activate the abilities of target creature as though you are its controller.</text>
+</card>
+<card> 
+ <name>Mountain<name></name>
+ <set picURL="/Mountain.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card> 
+ <name>Muddy Grove<name></name>
+ <set picURL="/Muddy Grove.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Forest </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Play with the top card of your deck revealed. As long as it is a land card, CARDNAME has "T: add B to your mana pool".
+BG, T, sacrifice CARDNAME: draw a card</text>
+</card>
+<card> 
+ <name>Muddy Isle<name></name>
+ <set picURL="/Muddy Isle.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Island </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Play with the top card of your deck revealed. As long as it is a land card, CARDNAME has "T: add B to your mana pool".
+UB, T, sacrifice CARDNAME: draw a card</text>
+</card>
+<card> 
+ <name>Muscle<name></name>
+ <set picURL="/Muscle.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Human Rogue </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Coerce - Whenever an opponent attacks you or a planeswalker you control with at least 1 creature, you may pay W/B. If you do, that player loses 1 life and you gain 1 life.</text>
+</card>
+<card> 
+ <name>Mystic Claws<name></name>
+ <set picURL="/Mystic Claws.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>BG</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant creature
+Enchanted creature has +2/+2 and T: add B to your mana pool.</text>
+</card>
+<card> 
+ <name>Mystic Lubrication<name></name>
+ <set picURL="/Mystic Lubrication.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Artifact spells you cast cost 1 less to cast.
+Activated abilities of artifacts you control cost 1 less to activate.</text>
+</card>
+<card> 
+ <name>Naked FOC<name></name>
+ <set picURL="/Naked FOC.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>BRG</manacost>
+ <type>Creature -  </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with two +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: target player loses 2 life and draws 2 cards. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Naturalize<name></name>
+ <set picURL="/Naturalize.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Destroy target artifact or enchantment.</text>
+</card>
+<card> 
+ <name>Neck Bite<name></name>
+ <set picURL="/Neck Bite.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>1BR</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME deals 3 damage to target creature or player. Then, if you control a vampire creature, gain 3 life.</text>
+</card>
+<card> 
+ <name>New Card<name></name>
+ <set picURL="/New Card.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>0</manacost>
+ <type>Creature -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card> 
+ <name>Nigel Planeswalker<name></name>
+ <set picURL="/Nigel Planeswalker.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>2WUB</manacost>
+ <type>Planeswalker - Nigel </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>+2: Look at the top five cards of your library. You may reveal any number of artifact cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+
+-2: Target artifact you control becomes a 5/5 artifact creature with Machine Learning until end of turn.
+
+-8: You get an emblem with "Artifacts you control have Machine Learning. At the beginning of each upkeep, target artifact you control becomes a 5/5 artifact creature until end of turn."</text>
+</card>
+<card> 
+ <name>Nude Vandal<name></name>
+ <set picURL="/Nude Vandal.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Human Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: Destroy target artifact. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>One with the Beat<name></name>
+ <set picURL="/One with the Beat.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant creature
+Rhythm
+As long as there is a beat counter on CARDNAME, enchanted creature cannot be blocked.</text>
+</card>
+<card> 
+ <name>Onyx Rain<name></name>
+ <set picURL="/Onyx Rain.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>1WUB</manacost>
+ <type>Instant -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Counter all spells.
+Destroy all enchantments.
+All lands become basic swamps until the end of target opponent's next turn.</text>
+</card>
+<card> 
+ <name>Outing<name></name>
+ <set picURL="/Outing.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Search your library for two basic land cards, reveal them, and put them into your hand.
+Commune 3 - if you control at least 3 colors among permanents you control, put them onto the battlefield instead.</text>
+</card>
+<card> 
+ <name>Painful Ritual<name></name>
+ <set picURL="/Painful Ritual.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Efficiency 4
+CARDNAME deals 2 damage to you.</text>
+</card>
+<card> 
+ <name>PAS<name></name>
+ <set picURL="/PAS.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add 1 to your mana pool
+3, T: Whenever a creature attacks this turn, exile it. It returns to the battlefield tapped and attacking at the beginning of its controller's next combat step.</text>
+</card>
+<card> 
+ <name>Pet Rootwalla<name></name>
+ <set picURL="/Pet Rootwalla.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Lizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Commune 2 - if you control at least 2 colors amongst permanents you control, CARDNAME has 1G: CARDNAME gets +2/+2 until end of turn. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Pickleboar<name></name>
+ <set picURL="/Pickleboar.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <type>Creature - Boar </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you are eating a pickle, CARDNAME has +2/+0 and first strike.</text>
+</card>
+<card> 
+ <name>Pillow Fort<name></name>
+ <set picURL="/Pillow Fort.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Tapped creatures you control have -1/+1.</text>
+</card>
+<card> 
+ <name>Pinnacle Fen<name></name>
+ <set picURL="/Pinnacle Fen.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Swamp </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Play with the top card of your deck revealed. As long as it is a land card, CARDNAME has "T: add R to your mana pool".
+BR, T, sacrifice CARDNAME: draw a card</text>
+</card>
+<card> 
+ <name>Pinnacle Meadow<name></name>
+ <set picURL="/Pinnacle Meadow.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Plains </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Play with the top card of your deck revealed. As long as it is a land card, CARDNAME has "T: add R to your mana pool".
+RW, T, sacrifice CARDNAME: draw a card</text>
+</card>
+<card> 
+ <name>Plains<name></name>
+ <set picURL="/Plains.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card> 
+ <name>Porter Griffin<name></name>
+ <set picURL="/Porter Griffin.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature -  </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+</card>
+<card> 
+ <name>Preystalker<name></name>
+ <set picURL="/Preystalker.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Vampire </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: CARDNAME deals 1 damage to target creature or player</text>
+</card>
+<card> 
+ <name>Punch You Into Next Week<name></name>
+ <set picURL="/Punch You Into Next Week.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Target creature you control fights another target creature. If a creature would die this way, exile it instead.</text>
+</card>
+<card> 
+ <name>Rabbit Warren<name></name>
+ <set picURL="/Rabbit Warren.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Enchantment -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, if you control at least 2 rabbit creatures, put 2 1/1 red Rabbit creature tokens with haste onto the battlefield.
+
+At the end of your turn, if you control no rabbits, sacrifice Rabbit Warren.</text>
+</card>
+<card> 
+ <name>Ragemantle<name></name>
+ <set picURL="/Ragemantle.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant creature
+Enchanted creature has +2/+0 and attacks each turn if able.</text>
+</card>
+<card> 
+ <name>Rampback Baloth<name></name>
+ <set picURL="/Rampback Baloth.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Baloth </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, target creature you control gains trample until end of turn.</text>
+</card>
+<card> 
+ <name>Rare Vampire Lord<name></name>
+ <set picURL="/Rare Vampire Lord.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>4BR</manacost>
+ <type>Creature - Vampire Dragon </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Vampire creatures you control have "R: this creature gets +1/+0 until end of turn"
+Sacrifice a creature you control: put a +1/+1 counter on CARDNAME</text>
+</card>
+<card> 
+ <name>Ravenous Demon<name></name>
+ <set picURL="/Ravenous Demon.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <type>Creature - Demon </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, sacrifice another creature you control. If you do, you gain X life, where X is twice that creature's toughness and draw a card.</text>
+</card>
+<card> 
+ <name>Razorbreath Baloth<name></name>
+ <set picURL="/Razorbreath Baloth.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <type>Creature - Baloth </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, target creature you control gets +3/+3 until end of turn.</text>
+</card>
+<card> 
+ <name>Rebuke<name></name>
+ <set picURL="/Rebuke.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Destroy target attacking creature.</text>
+</card>
+<card> 
+ <name>Reinforced Guardian<name></name>
+ <set picURL="/Reinforced Guardian.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>4</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>3: Untap CARDNAME</text>
+</card>
+<card> 
+ <name>Reliable Roomie<name></name>
+ <set picURL="/Reliable Roomie.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Creature - Human Student </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash</text>
+</card>
+<card> 
+ <name>Rested Athlete<name></name>
+ <set picURL="/Rested Athlete.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <type>Creature - Human </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, put a +1/+1 counter on CARDNAME.</text>
+</card>
+<card> 
+ <name>Retribution<name></name>
+ <set picURL="/Retribution.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>WB</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>When one or more creatures attack you, the controller of those creatures loses 2 life and you add W or B to your mana pool.</text>
+</card>
+<card> 
+ <name>Rhythmic avoider<name></name>
+ <set picURL="/Rhythmic avoider.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Artifact Creature - Gargoyle construct  </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Rhythm (at the beginning of your upkeep, if there is at least 1 beat counter on CARDNAME, remove a beat counter from it. Otherwise, place a beat counter on it.)
+While CARDNAME has a beat counter on it, it has indestructible. Otherwise it has flying. 
+CARDNAME enters the battlefield with a beat counter on it. Beat counters on it count as +1/+1 counters. 
+Prowess</text>
+</card>
+<card> 
+ <name>Rhythmic Bouncer<name></name>
+ <set picURL="/Rhythmic Bouncer.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <type>Artifact Creature - Artificer </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Rhythm (at the beginning of your upkeep, if there is at least 1 beat counter on CARDNAME, remove a beat counter from it. Otherwise, place a beat counter on it.) - whenever a beat counter is removed from CARDNAME, you may pay 1. If you do, return a non-land permanent to its owners hand. </text>
+</card>
+<card> 
+ <name>Roosting Goose<name></name>
+ <set picURL="/Roosting Goose.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <type>Creature - Goose </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+</card>
+<card> 
+ <name>Rummaging Nudist<name></name>
+ <set picURL="/Rummaging Nudist.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Subtype </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Rummaging Nudist enters the battlefield with 2 +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from Rummaging Nudist: Discard a card, then if you did, draw a card. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Seasoned Fencer<name></name>
+ <set picURL="/Seasoned Fencer.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature - Human Fencer </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: CARDNAME gets +1/+1 until end of turn. Activate this ability only once per turn.
+CARDNAME has First Strike as long as it has no +1/+1 counters on it.</text>
+</card>
+<card> 
+ <name>Sexy Party<name></name>
+ <set picURL="/Sexy Party.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text> All creatures gain: "disrobe - remove a +1/+1 counter from this creature: creatures you control gain +1/+1 until end of turn"</text>
+</card>
+<card> 
+ <name>Share Bear<name></name>
+ <set picURL="/Share Bear.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>2RG</manacost>
+ <type>Creature - Bear </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with 2 +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: Place a +1/+1 counter on target creature. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Sign in Blood<name></name>
+ <set picURL="/Sign in Blood.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Target player draws 2 cards and loses 2 life.</text>
+</card>
+<card> 
+ <name>Simian Packmate<name></name>
+ <set picURL="/Simian Packmate.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <type>Creature -  </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample</text>
+</card>
+<card> 
+ <name>Simian Ripper<name></name>
+ <set picURL="/Simian Ripper.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature -  </type>
+ <pt>5/3</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card> 
+ <name>Siphoning Brute<name></name>
+ <set picURL="/Siphoning Brute.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature -  </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME has +1/+1 for each mana in your mana pool.</text>
+</card>
+<card> 
+ <name>Skyfeeder<name></name>
+ <set picURL="/Skyfeeder.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Creature -  </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Reach</text>
+</card>
+<card> 
+ <name>Skyguard<name></name>
+ <set picURL="/Skyguard.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Bird </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+</card>
+<card> 
+ <name>Skythreader<name></name>
+ <set picURL="/Skythreader.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <type>Creature - Spider </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Reach</text>
+</card>
+<card> 
+ <name>Sleeping Killer<name></name>
+ <set picURL="/Sleeping Killer.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Human Assassin </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, you may sacrifice it. If you do, destroy target creature.
+Deathtouch</text>
+</card>
+<card> 
+ <name>Sleepwing Bat<name></name>
+ <set picURL="/Sleepwing Bat.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Bat </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, target creature you control gains flying until end of turn.</text>
+</card>
+<card> 
+ <name>Sleepy Sheepy<name></name>
+ <set picURL="/Sleepy Sheepy.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Creature - Sheep </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, you gain 2 life.</text>
+</card>
+<card> 
+ <name>Snare Line<name></name>
+ <set picURL="/Snare Line.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <type>Artifact -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Rhythm (at the beginning of your upkeep, if there is at least 1 beat counter on CARDNAME, remove a beat counter from it. Otherwise, place a beat counter on it.)
+CARDNAME enters the battlefield with a number of beat counters on it equal to the number of artifacts you control, then put a beat counter on CARDNAME.
+Whenever you put a beat counter on CARDNAME, gain control of target nonland permanent for as long as CARDNAME has a beat counter on it.</text>
+</card>
+<card> 
+ <name>Social Hydra<name></name>
+ <set picURL="/Social Hydra.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <type>Creature - Hydra </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Commune 3 - At the beginning of your upkeep, if you control at least 3 colours among permanents you control, put a +1/+1 counter on CARDNAME.</text>
+</card>
+<card> 
+ <name>Speedy Hulk<name></name>
+ <set picURL="/Speedy Hulk.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <type>Creature - Beast </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from CARDNAME: CARDNAME gains Haste until end of turn. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Spellcrafter's Amulet<name></name>
+ <set picURL="/Spellcrafter's Amulet.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>4</manacost>
+ <type>Artifact -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Efficiency 1
+Instant and sorcery spells you cast cost 1 less to cast.</text>
+</card>
+<card> 
+ <name>Spidersilk Net<name></name>
+ <set picURL="/Spidersilk Net.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>0</manacost>
+ <type>Artifact - Equipment </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Equipped creature gets +0/+2 and has reach. (It can block creatures with flying.)
+Equip 2</text>
+</card>
+<card> 
+ <name>Spring from Nowhere<name></name>
+ <set picURL="/Spring from Nowhere.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>XUG</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Reveal the top X cards from your library. Put all creature cards revealed this way into your hand and exile the rest.</text>
+</card>
+<card> 
+ <name>Stab Wound<name></name>
+ <set picURL="/Stab Wound.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Enchantment - Aura </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Enchant creature 
+Enchanted creature gets -2/-2. At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.</text>
+</card>
+<card> 
+ <name>Stacks Guardian<name></name>
+ <set picURL="/Stacks Guardian.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>5</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>5, T: Draw a card</text>
+</card>
+<card> 
+ <name>Stalwart Defender<name></name>
+ <set picURL="/Stalwart Defender.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Human Guard </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Coerce - Whenever an opponent attacks you or a planeswalker you control with at least 1 creature, you may pay W/B. If you do, that player loses 1 life and you gain 1 life.</text>
+</card>
+<card> 
+ <name>Steel Cobra<name></name>
+ <set picURL="/Steel Cobra.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>B: CARDNAME gains deathtouch until end of turn.</text>
+</card>
+<card> 
+ <name>Stormcast Serpent<name></name>
+ <set picURL="/Stormcast Serpent.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>6U</manacost>
+ <type>Creature - Serpent </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME costs 1 less to cast for each spell you've cast this turn.
+Hexproof</text>
+</card>
+<card> 
+ <name>Streetwise Bodyguard<name></name>
+ <set picURL="/Streetwise Bodyguard.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Human Warrior </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Coerce - Whenever an opponent attacks you or a planeswalker you control with at least 1 creature, you may pay W/B. If you do, that player loses 1 life and you gain 1 life.</text>
+</card>
+<card> 
+ <name>Suffer-more<name></name>
+ <set picURL="/Suffer-more.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact Creature - Automata </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Commune 2 - if you control at least 2 colors amongst permanents you control, CARDNAME gains +1/-1</text>
+</card>
+<card> 
+ <name>Swamp<name></name>
+ <set picURL="/Swamp.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card> 
+ <name>Tapeworm<name></name>
+ <set picURL="/Tapeworm.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Worm </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, target opponent loses 1 life.</text>
+</card>
+<card> 
+ <name>Taxing Jay<name></name>
+ <set picURL="/Taxing Jay.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>1WU</manacost>
+ <type>Creature -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying
+When CARDNAME enters the battlefield, counter target spell unless its controller pays 1.</text>
+</card>
+<card> 
+ <name>The Ketchup<name></name>
+ <set picURL="/The Ketchup.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>4</manacost>
+ <type>Legendary Artifact -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>When CARDNAME is put into the graveyard from the battlefield, flip a coin. On heads, destroy all permanents and set all players' life totals to 1. On tails, destroy CARDNAME's controller.
+When CARDNAME enters the battlefield draw a card and target player gains control of CARDNAME.</text>
+</card>
+<card> 
+ <name>The Office<name></name>
+ <set picURL="/The Office.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>{T}: Add {1} to your mana pool.
+
+Commune 3 - {T}: If you control 3 or more colours amongst permanents you control, Add 1 mana of any color to your mana pool.</text>
+</card>
+<card> 
+ <name>Thicketted Heights<name></name>
+ <set picURL="/Thicketted Heights.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Mountain </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Play with the top card of your deck revealed. As long as it is a land card, CARDNAME has "T: add G to your mana pool".
+RG, T, sacrifice CARDNAME: draw a card</text>
+</card>
+<card> 
+ <name>Thicketted Meadow<name></name>
+ <set picURL="/Thicketted Meadow.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Plains </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Play with the top card of your deck revealed. As long as it is a land card, CARDNAME has "T: add G to your mana pool".
+GW, T, sacrifice CARDNAME: draw a card</text>
+</card>
+<card> 
+ <name>Thoughtful Blow<name></name>
+ <set picURL="/Thoughtful Blow.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>GU</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Target creature you control gets +3/+3 until end of turn. When that creature deals combat damage to an opponent this turn, you may draw a card.</text>
+</card>
+<card> 
+ <name>Trained Magpie<name></name>
+ <set picURL="/Trained Magpie.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>UB</manacost>
+ <type>Creature - Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When CARDNAME enters the battlefield, you may search your library for an artifact with cost 2 or less, reveal it, and put it into your hand. Then shuffle your library.</text>
+</card>
+<card> 
+ <name>Traveller's Amulet<name></name>
+ <set picURL="/Traveller's Amulet.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>1, sacrifice CARDNAME: search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.</text>
+</card>
+<card> 
+ <name>Tribute Troll<name></name>
+ <set picURL="/Tribute Troll.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Creature - Troll </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, untap it and target opponent sacrifices a creature.</text>
+</card>
+<card> 
+ <name>Trickling Grove<name></name>
+ <set picURL="/Trickling Grove.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Forest </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Play with the top card of your deck revealed. As long as it is a land card, CARDNAME has "T: add U to your mana pool".
+GU, T, sacrifice CARDNAME: draw a card</text>
+</card>
+<card> 
+ <name>Trickling Heights<name></name>
+ <set picURL="/Trickling Heights.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land - Mountain </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Play with the top card of your deck revealed. As long as it is a land card, CARDNAME has "T: add U to your mana pool".
+UR, T, sacrifice CARDNAME: draw a card</text>
+</card>
+<card> 
+ <name>Trumpet Blast<name></name>
+ <set picURL="/Trumpet Blast.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Attacking creatures get +2/+0 until end of turn.</text>
+</card>
+<card> 
+ <name>Trusted Assistant<name></name>
+ <set picURL="/Trusted Assistant.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature -  </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a counter is removed from a permanent you control, gain 1 life.</text>
+</card>
+<card> 
+ <name>Turntables<name></name>
+ <set picURL="/Turntables.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever CARDNAME or another artifact enters the battlefield under your control, put a beat counter on CARDNAME.
+Rhythm (at the beginning of your upkeep, if there is at least 1 beat counter on CARDNAME, remove a beat counter from it. Otherwise, place a beat counter on it.) - Whenever you remove a beat counter from CARDNAME, tap or untap target permanent.</text>
+</card>
+<card> 
+ <name>Twitch<name></name>
+ <set picURL="/Twitch.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>You may tap or untap target artifact, creature, or land.
+Draw a card.</text>
+</card>
+<card> 
+ <name>Unburdening Celebrations<name></name>
+ <set picURL="/Unburdening Celebrations.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a counter is removed from a permanent you control, target creature gets +1/+1 until end of turn.</text>
+</card>
+<card> 
+ <name>Underworld Thug<name></name>
+ <set picURL="/Underworld Thug.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Human Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Coerce - Whenever an opponent attacks you or a planeswalker you control with at least 1 creature, you may pay W/B. If you do, that player loses 1 life and you gain 1 life.</text>
+</card>
+<card> 
+ <name>Unfettered Leader<name></name>
+ <set picURL="/Unfettered Leader.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Human </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text> Unfettered Leader enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from Unfettered Leader: Creatures you control get +2/+0 until end of turn. Activate this ability only once per turn.</text>
+</card>
+<card> 
+ <name>Unleash the Hares<name></name>
+ <set picURL="/Unleash the Hares.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Sorcery -  </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Put 3 1/1 red Rabbit creature tokens with haste onto the battlefield.</text>
+</card>
+<card> 
+ <name>Unwelcome Guest<name></name>
+ <set picURL="/Unwelcome Guest.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Human </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Nap - You may choose not to untap CARDNAME during your untap step. At the beginning of your upkeep, if CARDNAME is tapped, target creature gets -1/-1 until end of turn.</text>
+</card>
+<card> 
+ <name>Upbeat<name></name>
+ <set picURL="/Upbeat.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Instant -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Target creature gets -1/-0 until end of turn. You may place a beat counter on target permanent with Rhythm.</text>
+</card>
+<card> 
+ <name>Vampire Dragon Drain Breath<name></name>
+ <set picURL="/Vampire Dragon Drain Breath.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>2BBR</manacost>
+ <type>Creature - Vampire Dragon </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste, flying 
+When CARDNAME enters the battlefield, place a -1/-1 counter on each other creature. 
+CARDNAME gains +1/+0 for each -1/-1 counter in play. </text>
+</card>
+<card> 
+ <name>Vampire Excitedguy<name></name>
+ <set picURL="/Vampire Excitedguy.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>2BR</manacost>
+ <type>Creature -  </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Haste</text>
+</card>
+<card> 
+ <name>Vampire Haste<name></name>
+ <set picURL="/Vampire Haste.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Vampire </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste</text>
+</card>
+<card> 
+ <name>Vampire Nighthawk<name></name>
+ <set picURL="/Vampire Nighthawk.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Creature - Vampire Shaman </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Deathtouch
+Lifelink</text>
+</card>
+<card> 
+ <name>Variable Size Disguise<name></name>
+ <set picURL="/Variable Size Disguise.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <type>Creature - Semigiant </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME enters the battlefield with 5 +1/+1 counters on it.
+Disguise 2G - 2G, exile CARDNAME: Choose a creature you control. That creature becomes a copy of CARDNAME.</text>
+</card>
+<card> 
+ <name>Vault Attendant<name></name>
+ <set picURL="/Vault Attendant.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card> 
+ <name>Vengeful Demon<name></name>
+ <set picURL="/Vengeful Demon.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <type>Creature - Demon </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Coerce - Whenever an opponent attacks you or a planeswalker you control with at least 1 creature, you may pay W/B. If you do, that player loses 1 life and you gain 1 life.
+At the beginning of your upkeep, if you have 19 or less life, CARDNAME deals 2 damage to you.</text>
+</card>
+<card> 
+ <name>Vital Glow<name></name>
+ <set picURL="/Vital Glow.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Enchantment -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+If you would gain life, instead gain twice as much life.</text>
+</card>
+<card> 
+ <name>Vitality Phantom<name></name>
+ <set picURL="/Vitality Phantom.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>M</color>
+ <manacost>5WB</manacost>
+ <type>Creature - Spirit </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+CARDNAME costs 1 less for each life you gained this turn.</text>
+</card>
+<card> 
+ <name>Void Snare<name></name>
+ <set picURL="/Void Snare.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Return target nonland permanent to its owner's hand.</text>
+</card>
+<card> 
+ <name>Voidswallower<name></name>
+ <set picURL="/Voidswallower.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Horror </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME's power and toughness are each equal to the number of cards you own in exile.</text>
+</card>
+<card> 
+ <name>Waltz Engine<name></name>
+ <set picURL="/Waltz Engine.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color></color>
+ <manacost>4</manacost>
+ <type>Artifact -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you would put a beat counter on a permanent you control, put 2 beat counters on that permanent instead.</text>
+</card>
+<card> 
+ <name>Warren Keeper<name></name>
+ <set picURL="/Warren Keeper.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Shaman </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When CARDNAME enters the battlefield, put a 1/1 white and red rabbit creature token with haste onto the battlefield under your control.
+Coerce - Whenever an opponent attacks you or a planeswalker you control with at least 1 creature, you may pay W/B. If you do, that player loses 1 life and you gain 1 life.</text>
+</card>
+<card> 
+ <name>Whispering Skyfiend<name></name>
+ <set picURL="/Whispering Skyfiend.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>5B</manacost>
+ <type>Creature - Vampire </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+</card>
+<card> 
+ <name>Winged Fiend<name></name>
+ <set picURL="/Winged Fiend.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Vampire </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+</card>
+<card> 
+ <name>Wrath of Community<name></name>
+ <set picURL="/Wrath of Community.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <type>Sorcery -  </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Exile all creatures.
+Commune 4 - if you control at least 4 colors amongst permanents you control, exile all creatures you don't control instead.</text>
+</card>
+<card> 
+ <name>Yoked Octopus<name></name>
+ <set picURL="/Yoked Octopus.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature -  </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>As an additional cost to cast CARDNAME, exile a creature you control until CARDNAME leaves the battlefield.</text>
+</card>
+<card> 
+ <name>Zealous Cultist<name></name>
+ <set picURL="/Zealous Cultist.full.jpg" picURLHq="" picURLSt="">SIC</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Human Cultist </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>CARDNAME can't block.
+Coerce - Whenever an opponent attacks you or a planeswalker you control with at least 1 creature, you may pay W/B. If you do, that player loses 1 life and you gain 1 life.</text>
+</card>
+</cards>
+</cockatrice_carddatabase>
