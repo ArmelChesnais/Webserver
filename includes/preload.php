@@ -10,7 +10,6 @@ include_once "/Library/WebServer/Documents/includes/functions.php";
     
     
     // Create connection
-    //$conn = new mysqli($servername, $username, $password, $dbname);
     $conn = openSQLConnection(USERDATABASE);
     // Check connection
     if ($conn->connect_error) {
@@ -29,7 +28,6 @@ include_once "/Library/WebServer/Documents/includes/functions.php";
         $stmt->execute();
         $stmt->store_result();
         if ( $stmt->num_rows <> 0) {
-            //if ($conn->query("SELECT id FROM members WHERE username='" .$_POST["username"] ."' LIMIT 1")->num_rows <> 0){
             $err_msg .= "User name '" . $_POST["username"] . "' already exists.<br>";
         }
         $stmt->close();
@@ -38,12 +36,10 @@ include_once "/Library/WebServer/Documents/includes/functions.php";
         $stmt->execute();
         $stmt->store_result();
         if ( $stmt->num_rows <> 0) {
-            //if ($conn->query("SELECT id FROM members WHERE  email='" . $_POST["email"] . "' LIMIT 1")->num_rows <> 0){
             $err_msg .= "Email '" . $_POST["email"] . "' already exists.<br>";
         }
         $stmt->close();
         if ( $err_msg == "") {
-            // $sql = "INSERT INTO members (username, email, password) VALUES ('". $_POST["username"] ."', '" . $_POST["email"] ."', '". $passhash ."')";
             $stmt = $conn->prepare("INSERT INTO members (username, email, password) VALUES (?, ?, ?)");
             $stmt->bind_param('sss', $_POST["username"], $_POST["email"], $passhash);
             if ($stmt->execute()) {
@@ -68,7 +64,6 @@ include_once "/Library/WebServer/Documents/includes/functions.php";
         $stmt->store_result();
         $stmt->bind_result($id, $dbpassword);
         $stmt->fetch();
-        //$stmt->num_rows;
         if (isset($id)) {
             if ( password_verify($_POST["password"],$dbpassword)) {
                 $_SESSION["username"] = $_POST["username"];
@@ -76,7 +71,6 @@ include_once "/Library/WebServer/Documents/includes/functions.php";
             } else {
                 $err_msg .= "Password is incorrect!<br>";
                 $_SESSION["username"] = "None";
-                // $err_msg .= $id . " + " . $dbpassword . "<br>";
             }
         } else {
             $err_msg .= "No such user exists.<br>";
