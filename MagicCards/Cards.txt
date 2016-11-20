@@ -1,0 +1,186 @@
+ID; Name; Cost; Type; Subtype; Rarity; Text; Flavour; Power/Toughness
+1; Disrobe Bear; 1G; Creature; Beast; Common; ~ enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from ~: ~ gets +4/+0 until end of turn. Activate this ability only once per turn. ; ; 1/1
+2; Disrobe Share; 1G; Creature; Beast; Common; ~ enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from ~: Put a +1/+1 counter on target creature. Activate this ability only once per turn.; ; 1/1
+3; Burdened Duelist; 3W; Creature; Human Warrior; Uncommon; ~ enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from ~: ~ gets +1/+1 until end of turn. Activate this ability only once per turn.
+~ has Double Strike as long as it has no +1/+1 counters on it.;  ; 1/1
+4; Unfettered Leader; 2R; Creature; Human; Uncommon;  ~ enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from ~: Creatures you control get +2/+0 until end of turn. Activate this ability only once per turn.;  ; 0/0
+5; Mobile Phone; 2U; Artifact; ; Rare; T: Until end of turn, you may activate the abilities of target creature as though you are its controller.;  ; 1/1
+6; Alex Planeswalker; 2UR; Planeswalker; Alex; Mythic; +1: Look at the top 2 cards of your library. Put one in your hand and one in the graveyard.
+
+-3: Return target instant or sorcery from your graveyard to your hand. You may deal damage equal to its converted mana cost to up to one target creature.
+
+-8: You get an emblem with "You may cast instants and sorceries from your graveyard. All spells you cast gain Efficiency 3." ;  ; 0/5
+7; Ian Planeswalker; 4RWG; Planeswalker; Ian; Mythic; +1: Until end of turn, Ian becomes a legendary 5/5 red, green, and white Dragon creature with flying, trample, indestructible, and haste. (He doesn't lose loyalty while he's not a planeswalker.)
+
+-3: Creatures you control get +3/+3 and gain lifelink, trample, and haste until end of turn.
+
+-10: Deal 10 damage to all opponents and creatures your opponents control. Gain life equal to the amount of damage dealt.;  ; 0/6
+8; Joel Planeswalker; 3UG; Planeswalker; Joel; Mythic; +1: Tap up to two target creatures an opponent controls. They do not untap during their controller's next untap step.
+
++1: Target creature you control gets +3/+3 and trample until end of turn.
+
+-7: Reveal the top 10 cards of your library. You may put any number of permanents revealed this way onto the battlefield. Shuffle the rest of the cards into your library.;  ; 0/3
+9; Erin Planeswalker; 1BG; Planeswalker; Erin; Mythic; +1: Each player discards a card and puts the top card of his or her library into his or her graveyard.
+
+-3: Exile target creature card from a graveyard. Put three colorless tokens named Muffin onto the battlefield. They have: "Sacrifice Muffin: Put a +1/+1 counter on target creature." Put X loyalty counters on Erin, where X is the converted mana cost of the creature exiled this way.
+
+-8: You get an emblem with "Whenever an effect would place one or more +1/+1 counters on a creature you control, it places twice that many +1/+1 counters on that creature instead.";  ; 0/4
+10; Ben Planeswalker; 4RG; Planeswalker; Ben; Mythic; +1: Put a +1/+1 counter on up to two target creatures you control. Disrobe. Disrobe.
+
+-2: Put four red 1/1 Rabbit tokens with haste onto the battlefield. Each rabbit you control may fight up to one target creature you don't control.
+
+-9: You get an emblem with "Whenever a creature enters the battlefield under your control, deal 3 damage to target creature or opponent." ;  ; 0/6
+11; Amber Planeswalker; 2BB; Planeswalker; Amber; Common; +2: Target player discards a card.
+
+-X: Target creature gets -X/-X until end of turn. If you control a vampire, gain X life.
+
+-11: You get an emblem with "Creatures you control have flying, deathtouch, and lifelink.";  ; 0/5
+12; Nigel Planeswalker; 2WUB; Planeswalker; Nigel; Common; +2: Look at the top five cards of your library. You may reveal any number of artifact cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+
+-2: Target artifact you control becomes a 5/5 artifact creature with Machine Learning until end of turn.
+
+-8: You get an emblem with "Artifacts you control have Machine Learning. At the beginning of each upkeep, target artifact you control becomes a 5/5 artifact creature until end of turn.";  ; 0/4
+13; Armel Planeswalker; 3WG; Planeswalker; Armel; Common; +2: Until end of turn, up to one target creature gets +2/+2 and gains vigilance, and lifelink. Gain two life.
+
+-3: Look at the top card of your library. If it's a creature card, you may reveal it and put it into your hand. You may put up to one creature card from your hand onto the battlefield. Gain life equal to that creature's converted mana cost.
+
+-8: You get an emblem with "At the beginning of your upkeep, if you have 40 or more life or control 10 or more creatures, you win the game." ;  ; 0/4
+14; Britt Planeswalker; 2WBG; Planeswalker; Britt; Common; +1: Put two 2/2 green Dog tokens onto the battlefield.
+
+-2: Put a +1/+1 counter on all Dogs, Cats, and Rabbits you control. Until your next turn, each affected creature gains lifelink.
+
+-9: For each Dog, Cat, and Rabbit you control, put a 4/4 white Angel token with flying onto the battlefield. ;  ; 0/5
+15; Efficient Counterspell; 2UU; Instant; ; Common; Counter target spell. Efficiency 2. (Add {2} to your mana pool.) ;  ; 1/1
+16; Efficient  Shock; 1R; Instant; ; Common; Deal 2 damage to target creature or player. Efficiency 1. (Add {1} to your mana pool.) ;  ; 1/1
+17; Efficient Bear; 2G; Creature; Bear; Common; Efficiency 2. (Add {2} to your mana pool.);  ; 2/2
+18; Efficient  Mindrot; 2B; Sorcery; ; Common; Target player discards 2 cards. Efficiency 1. (Add {1} to your mana pool.);  ; 1/1
+19; Efficient  Angel; 5WW; Creature; Angel; Common; Flying.
+
+Efficiency 3. (Add {3} to your mana pool.);  ; 4/4
+20; Efficient  Divination; 3U; Sorcery; ; Common; Draw 2 cards.
+
+Efficiency 2. (Add {2} to your mana pool.);  ; 1/1
+21; Rabbit Warren; 3R; Enchantment; ; Rare; At the beginning of your upkeep, put 2 1/1 red Rabbit creature tokens with haste onto the battlefield.
+
+At the end of your turn, if you control no rabbits, sacrifice Rabbit Warren.;  ; 1/1
+22; Unleash the Hares; 3R; Sorcery; ; Uncommon; Put 3 1/1 red Rabbit creature tokens with haste onto the battlefield.;  ; 1/1
+23; Gummy Bear; 1G; Creature; Bear; Common; Tasty (whenever another creature enters the battlefield under your control you may sacrifice this permanent. If you do, put a +1/+1 counter on that creature.);  ; 2/2
+24; Pasture Raid; 2W; Sorcery; Subtype; Common; Place 2 1/1 white and green Goat creature tokens with Tasty onto the battlefield. (whenever another creature enters the battlefield under your control you may sacrifice this permanent. If you do, put a +1/+1 counter on that creature.);  ; 1/1
+25; Monstrous Lobster; 4UU; Creature; Crab; Uncommon; Tasty (whenever another creature enters the battlefield under your control you may sacrifice this permanent. If you do, put a +1/+1 counter on that creature.);  ; 4/9
+26; Pheasant; 1UG; Creature; Bird; Uncommon; Flying
+Tasty (whenever another creature enters the battlefield under your control you may sacrifice this permanent. If you do, put a +1/+1 counter on that creature.);  ; 1/1
+27; Gingerbread Battlements; 1B; Creature; Wall; Common; Defender
+Tasty (whenever another creature enters the battlefield under your control you may sacrifice this permanent. If you do, put a +1/+1 counter on that creature.);  ; 0/4
+28; Kool-Aid Elemental; 5R; Creature; Artifact - Elemental; Uncommon; ~ can't be blocked by walls.
+Tasty (whenever another creature enters the battlefield under your control you may sacrifice this permanent. If you do, put a +1/+1 counter on that creature.);  ; 5/5
+29; Bog Newt; B; Creature; Newt; Common; Tasty (whenever another creature enters the battlefield under your control you may sacrifice this permanent. If you do, put a +1/+1 counter on that creature.);  ; 1/1
+30; Protein Hydra; XGG; Creature; Hydra; Rare; ~ enters the battlefield with X +1/+1 counters on it.
+Whenever you sacrifice a creature, put a +1/+1 counter on ~.;  ; 0/0
+31; Farm Hand; 1W; Creature; Human; Common; When ~ enters the battlefield, put a 1/1 white and green Goat creature token with Tasty onto the battlefield. (whenever another creature enters the battlefield under your control you may sacrifice this permanent. If you do, put a +1/+1 counter on that creature.);  ; 1/1
+32; Branspeaker; 2G; Creature; Changeling; Uncommon; 1, T: put a Muffin artifact token with Tasty onto the battlefield. (whenever another creature enters the battlefield under your control you may sacrifice this permanent. If you do, put a +1/+1 counter on that creature.);  ; 1/1
+33; Manna Elf; G; Creature; Elf; Common; T: add G to your mana pool.
+Tasty (whenever another creature enters the battlefield under your control you may sacrifice this permanent. If you do, put a +1/+1 counter on that creature.);  ; 1/1
+34; Candy House; 0; Land; ; Rare; ~ enters the battlefield tapped.
+T: add 1 mana of any colour to your mana pool.
+Tasty (whenever another creature enters the battlefield under your control you may sacrifice this permanent. If you do, put a +1/+1 counter on that creature.);  ; 1/1
+35; Voracious Demon; 5BB; Creature; Demon; Rare; Flying
+When you cast ~, creatures you control gain Tasty until end of turn. (whenever another creature enters the battlefield under your control you may sacrifice this permanent. If you do, put a +1/+1 counter on that creature.);  ; 6/6
+36; Firery Rage; 3R; Instant; ; Uncommon; ~ deals 4 damage to target creature or player.;  ; 1/1
+37; Onyx Rain; 1WUB; Instant; ; Rare; Counter all spells.
+Destroy all enchantments.
+All lands become basic swamps until the end of target opponent's next turn.;  ; 1/1
+38; Devout Might; 2B; Instant; ; Uncommon; Target creature's base power and toughness become X/X, where X is your devotion to black.;  ; 1/1
+39; Goblin Comerade; R; Creature; Goblin Ally; Common; Whenever ~ or another Ally creature enters the battlefield under your control, ~ gets +1/+1 until end of turn.;  ; 1/1
+40; Weathered Tracker; 3G; Creature; Human Ally; Uncommon; Trample
+Whenever ~ or another Ally creature enters the battlefield under your control, ~ gets +1/+1 until end of turn.;  ; 3/3
+41; Inspiring Leader; 3W; Creature; Human Ally; Uncommon; Whenever ~ or another Ally creature enters the battlefield under your control, Ally creatures you control get +1/+1 until end of turn.;  ; 2/2
+42; Selfless Companion; 2W; Creature; Human Ally; Uncommon; Sacrifice ~: put a +1/+1 counter on all ally creatures you control.;  ; 1/1
+43; Cruel Knave; 1B; Creature; Human Ally; Common; Sacrifice ~: If you control 3 or more Ally creatures, target player discards 2 cards.;  ; 2/1
+44; Goblin Charger; 1R; Creature; Goblin Ally; Common; Whenever ~ or another Ally creature enters the battlefield under your control, Ally creatures you control gain Haste until end of turn.;  ; 2/1
+45; Merfolk Lore-Keeper; 1U; Creature; Merfolk Ally; Common; T: Draw a card, then discard a card. If you control 3 or more Ally creatures, draw a card instead.;  ; 2/1
+46; Goblin Slingist; 1R; Creature; Goblin Ally; Uncommon; T: If you control 3 or more Ally creatures, ~ deals 1 damage to target creature.;  ; 1/1
+47; Social Botanist; 1G; Creature; Human Ally; Common; T: If you control 3 or more Ally creatures, target land becomes a 3/3 green creature until end of turn.;  ; 1/1
+48; Heally; 1W; Creature; Human Ally; Common; T: If you control 3 or more Ally creatures, gain 2 life.;  ; 1/1
+49; Ally Grower; 3G; Creature; Human Ally; Uncommon; T: If you control 3 or more Ally creatures, put a +1/+1 counter on target Ally creature you control.;  ; 2/2
+50; Ally Lifeloss; 2B; Creature; Human Ally; Uncommon; T: If you control 3 or more Ally creatures, target player loses 2 life.;  ; 1/1
+51; Ally Broodmother; 4W; Creature; Human Ally; Uncommon; Whenever ~ or another Ally creature enters the battlefield under your control, you may tap ~. If you do, put a 1/1 white Soldier Ally creature token onto the battlefield.;  ; 2/3
+52; Vital Ally; 3W; Creature; Human Ally; Uncommon; Whenever ~ or another Ally creature enters the battlefield under your control, gain 2 life.;  ; 2/2
+53; Bully; 3B; Creature; Human Ally; Uncommon; Whenever ~ or another Ally creature enters the battlefield under your control, ~ gains intimidate until end of turn.;  ; 3/3
+54; Ally Tinkerer; 3R; Creature; Goblin Rigger Ally; Uncommon; Whenever ~ or another Ally creature enters the battlefield under your control, assemble a contraption. (To assemble a contraption, put a 1/1 Contraption artifact creature onto the battlefield, then attach X cogs to it at random from among cogs in your command zone, where X is this creature's toughness);  ; 2/1
+55; Benevolent Priest; 1W; Creature; Human Priest; Common; Benevolent 2 - When ~ enters the battlefield, you may have target opponent gain 2 life. If you do, gain twice that much life.;  ; 1/1
+56; Benevolent Leader; 4W; Creature; Rabbit Hivelord; Common; Benevolent 2 - When ~ enters the battlefield, you may have target opponent gain 2 life. If you do, put that many 1/1 white Rabbit creature tokens onto the battlefield.;  ; 1/1
+57; Benevolent Shocksmith; 2R; Creature; Goblin Wizard; Uncommon; Benevolent 2 - When ~ enters the battlefield, you may have target opponent gain 2 life. If you do, ~ deals that much damage to target creature or player.;  ; 2/1
+58; Benevolent Tapper; 2W; Creature; Human Rogue; Common; Benevolent 4 - When ~ enters the battlefield, you may have target opponent gain 4 life. If you do, tap target creature.;  ; 2/3
+59; Benevolent Ranger; 2G; Creature; Human Ranger; Common; Benevolent 6 - When ~ enters the battlefield, you may have target opponent gain 6 life. If you do, destroy target creature with Flying that player controls.;  ; 2/2
+60; Benevolent Explorer; 1G; Creature; Elf Ranger; Common; Benevolent 1 - When ~ enters the battlefield, you may have target opponent gain 1 life. If you do, search your library for a basic land card and put it onto the battlefield tapped, then shuffle your library.;  ; 1/1
+61; Benevolent Sadist; 4B; Creature; Goat Assassin; Uncommon; Benevolent 2 - When ~ enters the battlefield, you may have target opponent gain 2 life. If you do, destroy target creature that player controls.;  ; 3/4
+62; Benevolent Arsonist; 4R; Creature; Rhox Berserker; Uncommon; Benevolent 3 - When ~ enters the battlefield, you may have target opponent gain 3 life. If you do, destroy target land that player controls.;  ; 6/3
+63; Benevolent Archivist; 3U; Creature; Merfolk Wizard; Uncommon; Benevolent 3 - When ~ enters the battlefield, you may have target opponent gain 3 life. If you do, draw a card.;  ; 2/2
+64; Benevolent Arcanist; 1R; Creature; Goblin Wizard; Uncommon; Flash
+Benevolent 4 - When ~ enters the battlefield, you may have target opponent gain 4 life. If you do, copy target spell. You may choose new targets for the copies.;  ; 2/1
+65; Benevolent Bouncer; U; Creature; Human Bouncer; Common; Benevolent 1 - When ~ enters the battlefield, you may have target opponent gain 1 life. If you do, return target creature to its owner's hand.;  ; 1/1
+66; Benevolent Arborist; 2G; Creature; Human Treefolk Coward; Uncommon; Flash
+Benevolent 2 - When ~ enters the battlefield, you may have target opponent gain 2 life. If you do, target creature gets +3/+3 until end of turn.;  ; 2/2
+67; Benevolent Big Guy; 3GG; Creature; Giant; Uncommon; Benevolent 8 - When ~ enters the battlefield, you may have target opponent gain 8 life. If you do, put 3 +1/+1 counters on ~.;  ; 5/4
+68; Big Disrobe; 5G; Creature; Beast; Common; ~ enters the battlefield with 3 +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from ~: ~ gets Trample until end of turn. Activate this ability only once per turn.;  ; 4/4
+69; Hulking Flasher; 3R; Creature; Goblin Flasher; Uncommon; ~ enters the battlefield with two +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from ~: deal 1 damage to target creature or player. Activate this ability only once per turn.;  ; 1/1
+70; Disrobe Draw; 2R; Creature; Human Wizard; Common; ~ enters the battlefield with 2 +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from ~: Exile the top card of your library and you may play that card until the beginning of your next turn. Activate this ability only once per turn.;  ; 1/1
+71; Rummaging Nudist; 2R; Creature; Subtype; Common; ~ enters the battlefield with 2 +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from ~: Discard a card, then if you did, draw a card. Activate this ability only once per turn.;  ; 1/1
+72; Speedy Hulk; 4R; Creature; Beast; Common; ~ enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from ~: ~ gains Haste until end of turn. Activate this ability only once per turn.;  ; 3/3
+73; Haste Giver; 4RG; Creature; Human Nudist; Uncommon; ~ enters the battlefield with 5 +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from ~: target creature gains Haste until end of turn. Activate this ability only once per turn.;  ; 1/1
+74; Costumed Rootwalla; 2G; Creature; Lizard; Common; ~ enters the battlefield with 2 +1/+1 counters on it.
+Disrobe - Remove a +1/+1 counter from ~: target creature gets +3/+3 until end of turn. Activate this ability only once per turn.;  ; 1/1
+75; Burdened Speedster; 2R; Creature; Human Runner; Uncommon; ~ enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from ~: ~ gets +0/+2 until end of turn. Activate this ability only once per turn.
+~ has haste as long as it has no +1/+1 counters on it.;  ; 3/1
+76; Seasoned Fencer; 3R; Creature; Human Fencer; Uncommon; ~ enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from ~: ~ gets +1/+1 until end of turn. Activate this ability only once per turn.
+~ has First Strike as long as it has no +1/+1 counters on it.;  ; 3/1
+77; Nude Vandal; 2R; Creature; Human Rogue; Common; ~ enters the battlefield with a +1/+1 counter on it.
+Disrobe - Remove a +1/+1 counter from ~: Destroy target artifact. Activate this ability only once per turn.;  ; 2/1
+78; Devotion Size Guy; 2B; Creature; Human; Uncommon; ~'s power and toughness are each equal to your devotion to black.;  ; 0/0
+79; Devotion Kill; 1B; Enchantment; Aura; Uncommon; Enchant Creature
+Enchanted creature gets -X/-X where X is equal to your devotion to black.;  ; 1/1
+80; Devoted Vampire; 2B; Creature; Vampire; Common; ~ has Lifelink as long as your devotion to black is 4 or greater.;  ; 2/3
+81; Devotion Murderer; 3BB; Creature; Vampire; Common; When ~ enters the battlefield, destroy target creature with converted mana cost less than or equal to your devotion to black.;  ; 2/2
+82; Discard Vampire; 2B; Creature; Vampire; Common; When ~ enters the battlefield, target player reveals their hand. Choose a nonland card from it with converted mana cost equal to or less than your devotion to black. That player discards that card.;  ; 2/3
+83; Devoted Mind Rot; 1B; Sorcery; ; Common; Each player whose devotion to black is less than 4 discards 3 cards.;  ; 1/1
+84; Devotion Hulk; 3B; Creature; Vampire; Common; When ~ enters the battlefield, put X +1/+1 counters on it where X is equal to your devotion to black.;  ; 1/1
+85; Devoted Extraction; 2B; Instant; ; Uncommon; Choose a nonland card in target player's graveyard. Search that player's hand, graveyard and library for up to X copies of that card and exile them, where X is equal to your devotion to black, then that player shuffles their library.;  ; 1/1
+86; Devoted Big Extraction; 4B; Sorcery; ; Uncommon; Choose up to X nonland cards in target player's library, where X is equal to your devotion to black. Search that player's hand, graveyard and library for any number of copies of those cards and exile them, then that player shuffles their library.;  ; 1/1
+87; Devotion's Reward; 1BB; Enchantment; ; Rare; Whenever a creature you control dies, you may gain life equal to your devotion to black.;  ; 1/1
+88; Call The Devoted; BBB; Enchantment; ; Rare; At the beginning of your end step, if the number of creature cards in your graveyard is greater than your devotion to black, return a creature from your graveyard to the battlefield at random.
+Sacrifice a creature: gain a life.;  ; 1/1
+89; Sexy Party; 3RR; Enchantment; ; Rare;  All creatures gain: "disrobe - remove a +1/+1 counter from this creature: creatures you control gain +1/+1 until end of turn";  ; 0/0
+90; Communal Librarian; 1U; Creature; Human Archivist; Uncommon; Commune 3 - T: Draw a card, then discard a card. If you control 3 or more colours amongst permanents you control, draw a card instead. Activate as a sorcery.;  ; 1/1
+91; Benevolent recruiting ; 2WG; Enchantment; ; Rare;  Benevolent 2 - at the beginning of your turn, target opponent gains 2 life. 
+
+Whenever an opponent gains life, place a 1/1 soldier token on the battlefield. ;  ; 0/0
+92; Doombox; 2B; Artifact; ; Uncommon;  ~ comes into play with a beat counter on it. 
+
+Rhythm (at the beginning of your upkeep, remove a beat counter from ~, if you do not, place a beat counter on it instead.) - Whenever you remove a beat counter from ~, deal 1 damage to target opponent, then gain 1 life.;  ; 0/0
+93; Dancer ; 2W; Creature; Human; Uncommon; Rhythm ((at the beginning of your upkeep, remove a beat counter from ~, if you do not, place a beat counter on it instead.) - Whenever a beat counter is removed from ~, target creature gains protection from the color of your choice until end of turn.
+
+~ enters the battlefield with a beat counter on it.
+Beat counters on ~ count as +1/+1 counters.;  ; 2/1
+94; Groove Criminal; 1{W/B}{W/B}; Artifact Creature; Construct; Common; Rhythm (at the beginning of your upkeep, if ~ has a beat counter on it, remove a beat counter, otherwise, place a beat counter on ~.) - ~ has Lifelink as long as it has a beat counter on it. Otherwise it has Deathtouch.;  ; 2/3
+95; Upbeat; U; Instant; ; Common; Place a beat counter on target permanent with Rhythm.;  ; 0/0
+96; Downbeat; U; Instant; ; Common; Remove a beat counter on target permanent with Rhythm.;  ; 0/0
+97; Double-time; 1{W/B}U; Enchantment; ; Uncommon; Rhythm on permanents you control also activates at the beginning of other players upkeep.;  ; 0/0
+98; Rhythmic avoider; 3U; Artifact Creature; Gargoyle construct ; Uncommon; Rhythm (At the beginning of your upkeep, if ~ has beat counters on it, remove a beat counter. Otherwise, place a beat counter on ~.)
+While ~ has a beat counter on it, it has indestructible. Otherwise it has flying. 
+~ enters the battlefield with a beat counter on it. Beat counters on it count as +1/+1 counters. ;  ; 2/2
+99; Rhythmic Bouncer; 1UU; Artifact Creature; Artificer; Uncommon; Rhythm (at the beginning of your upkeep, if ~ has beat counters on it, remove one. Otherwise place a beat counter on it) - whenever a beat counter is removed from ~, you may pay 1. If you do, return a non-land permanent to its owners hand. ;  ; 0/0
+100; Turntables; 2U; Artifact; ; Uncommon; Whenever CARDNAME or another artifact enters the battlefield under your control, put a beat counter on CARDNAME.
+
+Rhythm (at the beginning of your upkeep, remove a beat counter from ~, if you do not, place a beat counter on it instead.) - Whenever you remove a beat counter from ~, tap or untap target permanent.; ; 0/0
