@@ -7,8 +7,8 @@
   <body role="document">
   <?php include "/Library/WebServer/Documents/includes/navbar.php"; ?>
 user is: <?php echo $_SESSION["username"]; ?><br>
-<a href="<?php echo HOSTURL; ?>items.php">items</a><br>
-<a href="<?php echo HOSTURL; ?>options.php">options</a>
+<a href="<?php echo HOSTURL; ?>Warframe/items.php">items</a><br>
+<a href="<?php echo HOSTURL; ?>Warframe/options.php">options</a>
 <?php include "/Library/WebServer/Documents/includes/footer.php"; ?>
 </body></html>
  

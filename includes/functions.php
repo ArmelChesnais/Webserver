@@ -58,4 +58,13 @@ function addSQLOption($sqlString, $newOption, $operator = ",") {
             return 0;
         }
     }
+    
+    function verifyAuthority ($username, $authority) {
+        // verifies if the user has enough authority. If not, set 403 status and quit script.
+        if (getUserAuthority($username) < $authority){
+            header($_SERVER["SERVER_PROTOCOL"]." 403 Forbidden");
+            //echo "not authorized";
+            exit();
+        }
+    }
 ?>
