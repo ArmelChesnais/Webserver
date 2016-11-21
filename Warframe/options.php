@@ -1,9 +1,17 @@
-<?php include "/Library/WebServer/includes/headpreload.php.en"; ?>
+<?php include "/Library/WebServer/Documents/includes/preload.php";
+    if ( getUserAuthority($loggedUser) < 10) {
+        header($_SERVER["SERVER_PROTOCOL"]." 403 Forbidden");
+        exit();
+    }
+    
+    include "/Library/WebServer/Documents/includes/head.php";
+    
+    ?>
 
 
 </head>
 <body>
-<?php include "/Library/WebServer/includes/navbar.php.en";
+<?php include "/Library/WebServer/Documents/includes/navbar.php";
 
 $servername = HOST;
 $username = USER;
@@ -103,6 +111,8 @@ Attribute (optional): <input type="text" name="Attribute"><br>
     	#echo "0 results";
 	}
 $conn->close();
+include "/Library/WebServer/Documents/includes/footer.php";
 ?>
 
 </body></html>
+
