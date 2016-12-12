@@ -1,7 +1,7 @@
 <?php session_start();
 include_once "/Library/WebServer/Documents/includes/functions.php";
 
-    $loggedUser = "None";
+    $loggedUser = NULL;
     $err_msg = "";
     $servername = HOST;
     $username = USER;
@@ -70,11 +70,11 @@ include_once "/Library/WebServer/Documents/includes/functions.php";
                 $loggedUser = $_POST["username"];
             } else {
                 $err_msg .= "Password is incorrect!<br>";
-                $_SESSION["username"] = "None";
+                $_SESSION["username"] = NULL;
             }
         } else {
             $err_msg .= "No such user exists.<br>";
-            $_SESSION["username"] = "None";
+            $_SESSION["username"] = NULL;
         }
         $stmt->close();
     } elseif (isset($_SESSION["username"])){
