@@ -42,7 +42,7 @@ function openSQLConnection ($db) {
         return new mysqli($servername, $username, $password, $db);
 }
     
-    function getUserAuthority ($username, $conn = null) {
+    function getUserAuthority ($username, $conn = NULL) {
         // returns the authority of the input user
         if ($conn == NULL) { $conn = openSQLConnection(USERDATABASE); }
         
