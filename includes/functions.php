@@ -34,16 +34,18 @@ function addSQLOption($sqlString, $newOption, $operator = ",") {
     return $sqlString;
 }
     
-    function openSQLConnection ($db) {
+function openSQLConnection ($db) {
         $servername = HOST;
         $username = USER;
         $password = PASSWORD;
         
         return new mysqli($servername, $username, $password, $db);
-    }
+}
     
-    function getUserAuthority ($username) {
-        $conn = openSQLConnection(USERDATABASE);
+    function getUserAuthority ($username, $conn = NULL) {
+        // returns the authority of the input user
+        if ($conn == NULL) { $conn = openSQLConnection(USERDATABASE); }
+        
         $stmt = $conn->prepare("SELECT authority FROM members WHERE username = ? LIMIT 1");
         $stmt->bind_param('s', $username);
         $stmt->execute();
@@ -57,14 +59,37 @@ function addSQLOption($sqlString, $newOption, $operator = ",") {
         } else {
             return 0;
         }
+}
+    
+    function isInAuthorityGroup ($username, $authority) {
+        /* add desc */
+        $conn = openSQLConnection(USERDATABASE);
+        $stmt = $conn->prepare("SELECT members.username FROM members INNER JOIN member_in_group ON member_in_group.member_id=members.id INNER JOIN groups ON member_in_group.group_id=groups.group_id WHERE members.username = ? AND groups.name = ? LIMIT 1");
+        $stmt->bind_param("ss", $username, $authority);
+        $stmt->execute();
+        $stmt->store_result();
+        $stmt->bind_result($found);
+        $stmt->fetch();
+        $stmt->close;
+        $conn->close;
+        if (isset($found)) {
+            return TRUE;
+        } else {
+            return FALSE;
+        }
     }
     
-    function verifyAuthority ($username, $authority) {
+function verifyAuthority ($username, $authority) {
         // verifies if the user has enough authority. If not, set 403 status and quit script.
-        if (getUserAuthority($username) < $authority){
+        if ( gettype($authority) == "integer" AND getUserAuthority($username) < $authority){
             header($_SERVER["SERVER_PROTOCOL"]." 403 Forbidden");
             //echo "not authorized";
             exit();
         }
+    if (gettype($authority) == "string" AND !isInAuthorityGroup($username, $authority)){
+        header($_SERVER["SERVER_PROTOCOL"]." 403 Forbidden");
+        //echo "not authorized";
+        exit();
     }
+}
 ?>

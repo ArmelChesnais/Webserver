@@ -42,21 +42,23 @@
             <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
             <?php
-                if ( $loggedUser == "None") {
+                if ( $loggedUser == NULL) {
                     echo "Log In";
                 } else {
-                    echo $loggedUser;
+                    echo htmlspecialchars( $loggedUser );
                 }
             ?><span class="caret"></span></a>
             <ul class="dropdown-menu" role="menu">
             <li>
+            <form method="POST" id="login_account" action="index.php" style="padding: 0px 5px">
+            <label for="username">Username: </label><input type="text" name="username" >
 
-<form method="POST" id="login_account" action="index.php" style="padding: 0px 5px">
-            Username: <input type="text" name="username" value="" ><br>
-            Password: <input type="password" name="password"><br>
-            <input id="login_account" name="login_account" type="submit" value="login"></form>
+            <label for="password">Password: </label><input type="password" name="password">
+
+            <input id="login_account" name="login_account" type="submit" class="btn btn-default" value="login"></form>
             </li>
-            <li><a href="<?php echo HOSTURL; ?>register">Register</a></li>
+            <li class="divider"></li>
+            <li style="padding: 0px 5px"><a href="<?php echo HOSTURL; ?>register" class="btn btn-default" >Register</a></li>
             </ul>
             </li>
           </ul>

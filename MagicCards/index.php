@@ -1,9 +1,11 @@
 <?php include "/Library/WebServer/Documents/includes/preload.php";
     include "/Library/WebServer/Documents/includes/head.php";?>
 <title>Magic Card Dev Database</title>
+
 </head>
 <body>
 <?php include "/Library/WebServer/Documents/includes/navbar.php"; ?>
+<div style="position:absolute; background-color:#DDD; z-index:2; display: none" id="popup" >cardinfo popup goes here</div>
 <div>
 	<form method="GET" id="Display update" action="index.php">
 	Show deprecated <input type="checkbox" name="dp" action="index.php" <?php if ($_GET["dp"] == "on") { echo "checked"; } ?> >
@@ -56,10 +58,11 @@
     <?php
     	// output data of each row
     	while($row = $result->fetch_assoc()) {
+            echo "<tr onmouseover=\"cardPopup(".$row["Card_ID"].", this);\" onmouseout=\"hidePopup();\">";
     		if ( $row["DevAttribute"] != NULL ) {
-    			echo "<tr><td bgcolor='".$row["DevAttribute"]."'>";
+    			echo "<td bgcolor='".$row["DevAttribute"]."'>";
     		} else {
-        		echo "<tr><td>";
+        		echo "<td>";
     		}
         	echo "<a href=\"card.php?ID=" . $row["Card_ID"]."\">" . $row["Card_ID"]. "</a></td>\n<td><a href=\"card.php?ID=" . $row["Card_ID"]."\">" . $row["Name"]. "</a></td>\n<td>" . $row["Color"]. "</td>\n<td>" . $row["Cost"]. "</td>\n<td>" . $row["Type"];
         	if ( $row["Subtype"] != "" ) {
@@ -82,6 +85,43 @@
 	include "/Library/WebServer/Documents/includes/footer.php";
 ?>
 </div>
+<script>
+//cardPopup(1);
 
+function cardPopup(id, element) {
+    //document.getElementById("popup").innerHTML = "test";
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.onreadystatechange = function() {
+        
+        //document.getElementById("popup").innerHTML = "readyState: " + this.readyState + " status: " + this.status;
+        if (this.readyState == 4 && this.status == 200) {
+            //myFunction(this, i);
+            var newpos = findPos(element);
+            document.getElementById("popup").innerHTML = this.responseText;
+            newpos[1] += element.clientHeight;
+            document.getElementById("popup").style.top = "" + newpos[1] + "px";
+            document.getElementById("popup").style.left = "" + newpos[0] + "px";
+            document.getElementById("popup").style.display = "block";
+        }
+    };
+    xmlhttp.open("GET", "cardpopup.php?ID="+id, true);
+    xmlhttp.send();
+}
+
+function hidePopup() {
+    document.getElementById("popup").style.display = "none";
+}
+
+function findPos(obj) {
+    var curleft = curtop = 0;
+    if (obj.offsetParent) {
+        do {
+            curleft += obj.offsetLeft;
+            curtop += obj.offsetTop;
+        } while (obj = obj.offsetParent);
+        return [curleft,curtop];
+    }
+}
+</script>
 </body>
 </html>
